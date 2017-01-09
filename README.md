@@ -1,3 +1,3 @@
 # programmeerproject
 
-![GitHub excample](/images/dataproject.png)
+![GitHub excample](programmeerproject/images/dataproject.PNG)
