@@ -17,9 +17,9 @@ For this visualisation I need datasets with the years where in a band is active.
 Most of this information I can get from wikipedia. On wikipedia a couple of bands do have timelines. For the other bands i have to find the data on their wikipedia pages. For the bubble chart i can use the list of best selling music artists. The pie chart data i can calculate. 
 
 ### sources
-http://bl.ocks.org/bunkat/2338034
-http://bl.ocks.org/rengel-de/5603464
-https://bl.ocks.org/mbostock/4063269
+http://bl.ocks.org/bunkat/2338034, 
+http://bl.ocks.org/rengel-de/5603464, 
+https://bl.ocks.org/mbostock/4063269, 
 d3 linked views for the pie chart
 
 ### technical problems
