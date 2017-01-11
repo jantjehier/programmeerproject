@@ -7,7 +7,7 @@
 ![GitHub excample](/doc/dataproject2.PNG)
 
 ### visualisations
-### bubble chart: 
+#### bubble chart: 
 I have chosen to make change the barchart i wanted to make to a bubble chart. 
 In this bubble chart the size of the bubbles show how much albums are sold. A scale from 75 million to 600 million.
 The red and green colors show if a band is still active. If the color is green the band is still active. 
