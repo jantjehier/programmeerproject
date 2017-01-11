@@ -1,6 +1,6 @@
 # programmeerproject
 
-![GitHub excample](/doc/dataproject.PNG)
+![GitHub excample](/doc/dataproject2.PNG)
 
 ### Explaination of the image
 The barchart visualisation will show the number of years a band or artist is active. The bands or artists will be added if the band sold at least 75 milion albums. on the basis of https://en.wikipedia.org/wiki/List_of_best-selling_music_artists. The number will show on hover. The color of the bars (red/green) shows if a band is still performing or not. When you click a bar a timeline will appear that shows the bandmembers thrue the years. There are also lines that show when their albums where made. On the right is the timeline legend and a pie chart that shows how much per cent of the members are the original members that started the band. if you use the second dropdown menu (not on the image) you can change the pie chart to members that are atleast 80% of the time the band excists member.
