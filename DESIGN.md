@@ -1,7 +1,5 @@
 # design
 
-### the data
-
 ### original design
 ![GitHub excample](/doc/dataproject.PNG)
 
@@ -24,6 +22,9 @@ When you hover over a line you can see which instrument was played. On the right
 ### piechart:
 The piechart is to show if the bands have changed since the start of the band. The percentage in green are the members that are left of the original band.
 The percentage of the beginning band that did leave the band will be shown in red. The piechart will also be linked to the bubble chart.
+
+### the data
+the data for the bubblechart are the sold albums from wikipedia. The data for the timeline is data i have to make from different wikipedia pages (Some bands do have timelines there. That makes it easier because you can take the data from the editing page.) The data for the piechart has to be calculated in the code. 
 
 ### linking
 the piechart and the timeline will be linked to the bubblechart. 
