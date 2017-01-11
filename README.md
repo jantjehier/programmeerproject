@@ -9,7 +9,7 @@ The bubble chart visualisation will show the number of albums a band or artist h
 At least I want to make the time line linked to the bubble and the pie chart. I also need the search function and drop down as extra features.
 The optional part is the lines for the albums. I can make tables of the albums that where made, and make eventual the album versions. 
 
-### What is the message? 
+### Story
 The visualisation will show how it is possible that some bands are performing for a long time. Do they change members? Do they take breaks? Or are the performers healty enough to perform when they are 80? It also shows wich bands sold the most albums.
 
 ### The data
