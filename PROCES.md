@@ -23,4 +23,4 @@ No changes.
 
 ![GitHub excample](/doc/dataproject3.PNG)
 
-The bubble visualisatioin needs axis with new data so i change the visualisation back to a barchart. I dont need to find more data. I can add new visualisations if i have enough time.
+The bubble visualisatioin needs axis with new data so i change the visualisation back to a barchart. I dont need to find more data. I can add new visualisations if i have enough time. The band search funtion will work for the timeline and piechart in stead of the bubble chart. 
