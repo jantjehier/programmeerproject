@@ -1,20 +1,32 @@
 # programmeerproject
 
-![GitHub excample](/doc/dataproject2.PNG)
+![GitHub excample](/doc/dataproject3.PNG)
 
-### Explaination of the image
-The bubble chart visualisation will show the number of albums a band or artist has sold. The bands or artists will be added if the band sold at least 75 milion albums. On the basis of https://en.wikipedia.org/wiki/List_of_best-selling_music_artists. The number will show on hover. The color of the bars (red/green) shows if a band is still performing or not. When you click a bubble a timeline will appear that shows the bandmembers thrue the years. There are also lines that show when their albums where made. On the right is the timeline legend and a pie chart that shows how much per cent of the members are the original members that started the band. There is also a search function where in you can search for a band you want to find in the bubble chart.
+### visualisations
+#### bar chart: 
+I have chosen to make a bar chart.
+In this bar chart the size of the bars show how much albums are sold. A scale from 75 million to 600 million.
+The red and green colors show if a band is still active. If the color is green the band is still active. 
+If the color is red the band isn't active anymore. In the dropdown you can sellect if you only want to see the active or inactive bands or both.
+When you hover over the bars the values will show.
+#### timeline:
+There will also be a timeline that is linked to the barchart. when you click on a bar the band shows in the timeline.
+In the timeline you can see when a band was active and which musicians played in the band at which moment. Optional there will be lines
+that show when the albums where made. This makes it easy to see which musician made which album. The search funtion will work for the timeline. When you hover over a line you can see which instrument was played. On the right there is also a legend that shows the instruments.
+#### piechart:
+The piechart is to show if the bands have changed since the start of the band. The percentage in green are the members that are left of the original band.
+The percentage of the beginning band that did leave the band will be shown in red. The piechart will also be linked to the bar chart.
 
 ### The Minimum viable product
-At least I want to make the time line linked to the bubble and the pie chart. I also need the search function and drop down as extra features.
-The optional part is the lines for the albums. I can make tables of the albums that where made, and make eventual the album versions. 
+At least I want to make the time line linked to the bar and the pie chart. I also need the search function and drop down as extra features.
+The optional part is the lines for the albums. I can make tables of the albums that where made, and make eventual the album versions in a table. 
 
 ### Story
-The visualisation will show how it is possible that some bands are performing for a long time. Do they change members? Do they take breaks? Or are the performers healty enough to perform when they are 80? It also shows wich bands sold the most albums.
+The visualisation will show how it is possible that some bands are performing for a long time. Do they change members? Do they take breaks? Or are the performers healty enough to perform when they are 80? It also shows why bands sold the most albums. Can you be succesfull when you change your bandmembers a lot? Are older bands more succelfull? Are bands that are active for a long time more populair?
 
 ### The data
 For this visualisation I need datasets with the years where in a band is active. I also need data or timelines that show wich member was a bandmember at a certain time. Optional I need to know in wich year the albums where made. 
-Most of this information I can get from wikipedia. On wikipedia a couple of bands do have timelines. For the other bands i have to find the data on their wikipedia pages. For the bubble chart i can use the list of best selling music artists. The pie chart data i can calculate. 
+Most of this information I can get from wikipedia. On wikipedia a couple of bands do have timelines. For the other bands i have to find the data on their wikipedia pages. For the bar chart i can use the list of best selling music artists. The pie chart data i can calculate. 
 
 ### sources
 http://bl.ocks.org/bunkat/2338034, 
@@ -23,4 +35,10 @@ https://bl.ocks.org/mbostock/4063269,
 d3 linked views for the pie chart
 
 ### technical problems
-The technical problems that could arise during the development are the linking of the visualisation, the new timeline and bubble visualisations and the way I organize the data. The linking of the visualisation didn't go well in the dataprocessing psets. Some times one of the visualisations didn't work. I also never made a timeline visualisation and there aren't as much timeline visualisations made as line graphs or barcharts. It will be harder to find the right information I need. In the dataprocessing assignments I had to change the data format a lot because it didn't work with the simple JSON files. All the data i get from the wikipedia pages are slightly different so i have to make changes to them and make the format the same. The best thing I can do to solve this problem is to do a lot of research and work structured. 
+The technical problems that could arise during the development are the linking of the visualisation, the new timeline visualisation and the way I organize the data. The linking of the visualisation didn't go well in the dataprocessing psets. Some times one of the visualisations didn't work. I also never made a timeline visualisation and there aren't as much timeline visualisations made as line graphs or barcharts. It will be harder to find the right information I need. In the dataprocessing assignments I had to change the data format a lot because it didn't work with the simple JSON files. All the data i get from the wikipedia pages are slightly different so i have to make changes to them and make the format the same. The best thing I can do to solve this problem is to do a lot of research and work structured. 
+
+### linking
+the piechart and the timeline will be linked to the bar chart. 
+
+### extra features
+the extra features are the dropdown menu for the bar chart and the search function for the timeline and bar chart.
