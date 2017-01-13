@@ -1,33 +1,16 @@
 # design
 
-### original design
-![GitHub excample](/doc/dataproject.PNG)
+### barchart
+The barchart is a simple visualisation. I allready have made something that is close to what i need. The changes i need to make are the red and green bars and the new data. I also have to change the hover to a slightly lighter color than red or green (different for the red and green bars.) The barchart should give a band id on click to the other visualisations. When I click on the barchart the timeline should show up.
 
-### new design
-![GitHub excample](/doc/dataproject2.PNG)
+### timeline
+For the timeline i need to make a artist dataset. this dataset contains the a bar id, a startdate of the bar, an enddate, the band and the instrument. I have to make data for every bar i want to draw so when a musician plays 5 instrument i make 5 new JSON parts. If an artist is in the bandid's band the artist should be added to the timeline. the old timeline should be deleted when you click on a bar of the barchart.
 
-### visualisations
-#### bubble chart: 
-I have chosen to make change the barchart i wanted to make to a bubble chart. 
-In this bubble chart the size of the bubbles show how much albums are sold. A scale from 75 million to 600 million.
-The red and green colors show if a band is still active. If the color is green the band is still active. 
-If the color is red the band isn't active anymore. In the dropdown you can sellect if you only want to see the active or inactive bands or both.
-The search function makes it possible to search for bands or artists in the bubble chart. 
-The bubble you search for gets a border. When you hover over the bubbles the values will show.
-#### timeline:
-There will also be a timeline that is linked to the bubblechart. when you click on a bubble the band shows in the timeline.
-In the timeline you can see when a band was active and which musicians played in the band at which moment. Optional there will be lines
-that show when the albums where made. This makes it easy to see which musician made which album. It is also optional to make the search function also work for the timeline.
-When you hover over a line you can see which instrument was played. On the right there is also a legend that shows the instruments.
-#### piechart:
-The piechart is to show if the bands have changed since the start of the band. The percentage in green are the members that are left of the original band.
-The percentage of the beginning band that did leave the band will be shown in red. The piechart will also be linked to the bubble chart.
+### the pie chart
+the id is also needed for the pie chart. For the pie chart i first need to check which members are in a band. Then i need to check which members where the first members. the piechart data will contain a startdate of every band. If the startdate is the same as a musicians startdate it should be used in the piechart. the problem is that i made multiple JSON parts for every musician so it should only count one. If the end date is present the the musician should be part of the green part of the pie chart. The old pie chart has to be deleted when you click on another bar from the barchart.
 
-### the data
-the data for the bubblechart are the sold albums from wikipedia. The data for the timeline is data i have to make from different wikipedia pages (Some bands do have timelines there. That makes it easier because you can take the data from the editing page.) The data for the piechart has to be calculated in the code. 
+### search function
+I've never implemented a searchfuntion for a visualisation. The search funtion should be searching in the data for the timeline. when the band name is typed the timeline should show up. the old visualisation has to be deleted before i can show the new timeline.
 
-### linking
-the piechart and the timeline will be linked to the bubblechart. 
-
-### extra features
-the extra features are the dropdown menu for the bubble chart and the search function for the timeline and bubblechart.
+### drop downn menu
+I used a dropdown menu before. But this never worked well. i Think i have to use an on change function in stead of the if statements. The dropdown should change the part that will be loaded in for the visualisation and delete the old bars.
