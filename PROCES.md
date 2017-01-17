@@ -24,3 +24,11 @@ No changes.
 ![GitHub excample](/doc/dataproject3.PNG)
 
 The bubble visualisatioin needs axis with new data so i change the visualisation back to a barchart. I dont need to find more data. I can add new visualisations if i have enough time. The band search funtion will work for the timeline and piechart in stead of the bubble chart. 
+
+# day 6
+
+Today i made the barchart and started with the timeline. The timeline does have the timebars now but they are stacked. Only the bar on top is visable.
+
+# day 7
+
+I added a hover function with labels to the timeline. I also made code that searches for the lowest and highest year and determines the part of the timeline that should be visable.  
