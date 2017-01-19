@@ -1,0 +1,434 @@
+[
+        {
+            "start": "1956",
+            "lane": "John Lennon",
+            "lanenr": "0",
+            "end": "2017",
+            "id": "rguitbar",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1956",
+            "lane": "John Lennon",
+            "lanenr": "0",
+            "end": "1959",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "2"
+        },
+        {
+            "start": "1959",
+            "lane": "John Lennon",
+            "lanenr": "0",
+            "end": "1970",
+            "id": "rguitbar",
+            "band": "The Beatles",
+            "number": "3"
+        },
+        {
+            "start": "1959",
+            "lane": "John Lennon",
+            "lanenr": "0",
+            "end": "1970",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "4"
+        },
+        {
+            "start": "1957",
+            "lane": "Paul McCartney",
+            "lanenr": "1",
+            "end": "1959",
+            "id": "rguitbar",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1957",
+            "lane": "Paul McCartney",
+            "lanenr": "1",
+            "end": "1959",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "2"
+        },
+        {
+            "start": "1959",
+            "lane": "Paul McCartney",
+            "lanenr": "1",
+            "end": "1961",
+            "id": "rguitbar",
+            "band": "The Beatles",
+            "number": "3"
+        },
+        {
+            "start": "1959",
+            "lane": "Paul McCartney",
+            "lanenr": "1",
+            "end": "1960",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "4"
+        },
+        {
+            "start": "1960",
+            "lane": "Paul McCartney",
+            "lanenr": "1",
+            "end": "1960",
+            "id": "drums",
+            "band": "The Beatles",
+            "number": "5"
+        },
+        {
+            "start": "1960",
+            "lane": "Paul McCartney",
+            "lanenr": "1",
+            "end": "1961",
+            "id": "rguitbar",
+            "band": "The Beatles",
+            "number": "6"
+        },
+        {
+            "start": "1961",
+            "lane": "Paul McCartney",
+            "lanenr": "1",
+            "end": "1961",
+            "id": "piano",
+            "band": "The Beatles",
+            "number": "7"
+        },
+        {
+            "start": "1960",
+            "lane": "Paul McCartney",
+            "lanenr": "1",
+            "end": "1970",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "8"
+        },
+        {
+            "start": "1961",
+            "lane": "Paul McCartney",
+            "lanenr": "1",
+            "end": "1970",
+            "id": "bass",
+            "band": "The Beatles",
+            "number": "9"
+        },
+        {
+            "start": "1961",
+            "lane": "Paul McCartney",
+            "lanenr": "1",
+            "end": "1970",
+            "id": "piano",
+            "band": "The Beatles",
+            "number": "10"
+        },
+        {
+            "start": "1958",
+            "lane": "George Harrison",
+            "lanenr": "2",
+            "end": "1959",
+            "id": "lguitbar",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1958",
+            "lane": "George Harrison",
+            "lanenr": "2",
+            "end": "1959",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "2"
+        },
+        {
+            "start": "1959",
+            "lane": "George Harrison",
+            "lanenr": "2",
+            "end": "1969",
+            "id": "lguitbar",
+            "band": "The Beatles",
+            "number": "3"
+        },
+        {
+            "start": "1959",
+            "lane": "George Harrison",
+            "lanenr": "2",
+            "end": "1969",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "4"
+        },
+        {
+            "start": "1969",
+            "lane": "George Harrison",
+            "lanenr": "2",
+            "end": "1970",
+            "id": "lguitbar",
+            "band": "The Beatles",
+            "number": "5"
+        },
+        {
+            "start": "1969",
+            "lane": "George Harrison",
+            "lanenr": "2",
+            "end": "1970",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "6"
+        },
+        {
+            "start": "1956",
+            "lane": "Colin Hanton",
+            "lanenr": "3",
+            "end": "1958",
+            "id": "drums",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1960",
+            "lane": "Tommy Moore",
+            "lanenr": "4",
+            "end": "1960",
+            "id": "drums",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1960",
+            "lane": "Norman Chapman",
+            "lanenr": "5",
+            "end": "1960",
+            "id": "drums",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1960",
+            "lane": "Pete Best",
+            "lanenr": "6",
+            "end": "1962",
+            "id": "drums",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1960",
+            "lane": "Pete Best",
+            "lanenr": "6",
+            "end": "1962",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "2"
+        },
+        {
+            "start": "1962",
+            "lane": "Ringo Starr",
+            "lanenr": "7",
+            "end": "1964",
+            "id": "drums",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1962",
+            "lane": "Ringo Starr",
+            "lanenr": "7",
+            "end": "1964",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "2"
+        },
+        {
+            "start": "1964",
+            "lane": "Jimmie Nicol",
+            "lanenr": "8",
+            "end": "1964",
+            "id": "drums",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1964",
+            "lane": "Ringo Starr",
+            "lanenr": "7",
+            "end": "1968",
+            "id": "drums",
+            "band": "The Beatles",
+            "number": "3"
+        },
+        {
+            "start": "1964",
+            "lane": "Ringo Starr",
+            "lanenr": "7",
+            "end": "1968",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "4"
+        },
+        {
+            "start": "1968",
+            "lane": "Ringo Starr",
+            "lanenr": "7",
+            "end": "1970",
+            "id": "drums",
+            "band": "The Beatles",
+            "number": "5"
+        },
+        {
+            "start": "1968",
+            "lane": "Ringo Starr",
+            "lanenr": "7",
+            "end": "1970",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "6"
+        },
+        {
+            "start": "1969",
+            "lane": "Bill Smith",
+            "lanenr": "9",
+            "end": "1969",
+            "id": "piano",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1960",
+            "lane": "Stuart Sutcliffe",
+            "lanenr": "10",
+            "end": "1960",
+            "id": "bass",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1960",
+            "lane": "Stuart Sutcliffe",
+            "lanenr": "10",
+            "end": "1960",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "2"
+        },
+        {
+            "start": "1961",
+            "lane": "Stuart Sutcliffe",
+            "lanenr": "10",
+            "end": "1961",
+            "id": "bass",
+            "band": "The Beatles",
+            "number": "3"
+        },
+        {
+            "start": "1961",
+            "lane": "Stuart Sutcliffe",
+            "lanenr": "10",
+            "end": "1961",
+            "id": "voc",
+            "band": "The Beatles",
+            "number": "4"
+        },
+        {
+            "start": "1961",
+            "lane": "Stuart Sutcliffe",
+            "lanenr": "10",
+            "end": "1961",
+            "id": "bass",
+            "band": "The Beatles",
+            "number": "5"
+        },
+        {
+            "start": "1960",
+            "lane": "Chas Newby",
+            "lanenr": "11",
+            "end": "1961",
+            "id": "bass",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1956",
+            "lane": "Eric Griffiths",
+            "lanenr": "12",
+            "end": "1958",
+            "id": "rguitbar",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1959",
+            "lane": "Ken Brown",
+            "lanenr": "13",
+            "end": "1960",
+            "id": "rguitbar",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1956",
+            "lane": "Pete Shotton",
+            "lanenr": "14",
+            "end": "1957",
+            "id": "wash",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1956",
+            "lane": "Bill Smith",
+            "lanenr": "9",
+            "end": "1956",
+            "id": "tea",
+            "band": "The Beatles",
+            "number": "2"
+        },
+        {
+            "start": "1956",
+            "lane": "Nigel Walley",
+            "lanenr": "15",
+            "end": "1956",
+            "id": "tea",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1956",
+            "lane": "Ivan Vaughan",
+            "lanenr": "16",
+            "end": "1961",
+            "id": "tea",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1957",
+            "lane": "Len Garry",
+            "lanenr": "17",
+            "end": "1958",
+            "id": "tea",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1957",
+            "lane": "Rod Davis",
+            "lanenr": "18",
+            "end": "1958",
+            "id": "banjo",
+            "band": "The Beatles",
+            "number": "1"
+        },
+        {
+            "start": "1958",
+            "lane": "John Duff Lowe",
+            "lanenr": "19",
+            "end": "1959",
+            "id": "piano",
+            "band": "The Beatles",
+            "number": "1"
+        }
+]
