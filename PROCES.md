@@ -36,3 +36,11 @@ I added a hover function with labels to the timeline. I also made code that sear
 # day 9
 
 I added the visualisations together and made the link between the barchart and the other visualisations. I started with the function that detects the overlay between lines on the timeline. 
+
+# day 10
+
+i changed my idea for the pie chart. The pie chart will show how for the best sold albums (20 million or more) how much percent that albums is of their total sales. If no albums where more than 20 million times sold the pie chart will have the same color. I found the data and made the function for the pie chart. 
+
+# day 11
+
+I made my first extra feature. The extra feature sorts the barchart.
