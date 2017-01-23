@@ -1,0 +1,137 @@
+/* d3 tip element */
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+/* change color when hover over bars*/
+.bar_no:hover {
+  fill: #FF5050;
+}
+
+.bar_yes:hover {
+  fill: #50D050;
+}
+
+/* change axis textsize*/
+.axis text {
+				font-family: sans-serif;
+				font-size: 12px;
+}
+
+/* change axis*/
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+/*timeline*/
+.chart {
+  shape-rendering: crispEdges;
+}
+
+.mini text {
+  font: 9px sans-serif;
+}
+
+/*instrument colors*/
+.miniItemvoc {
+  fill: red;
+  stroke-width: 6;
+}
+
+.miniItemguitar {
+  fill: green;
+  fill-opacity: .7;
+  stroke-width: 6;
+}
+
+.miniItembass {
+  fill: blue;
+  fill-opacity: .7;
+  stroke-width: 6;
+}
+
+.miniItemdrums {
+  fill: purple;
+  fill-opacity: .7;
+  stroke-width: 6;
+}
+
+.miniItembanjo {
+  fill: orange;
+  fill-opacity: .7;
+  stroke-width: 6;
+}
+
+.miniItempiano {
+  fill: yellow;
+  fill-opacity: .7;
+  stroke-width: 6;
+}
+
+.miniItemtea {
+  fill: lightblue;
+  fill-opacity: .7;
+  stroke-width: 6;
+}
+
+.miniItemwash {
+  fill: lightgreen;
+  fill-opacity: .7;
+  stroke-width: 6;
+}
+
+.xaxis path,
+.xaxis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+#tooltip {
+    position: absolute;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    -mox-box-shadow: 4px 4px 4px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 4px 4px 10px rbga(0, 0, 0, 0.4) pointer-events: none;
+}
+#tooltip.hidden {
+    opacity: 0;
+}
+#tooltip p {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
