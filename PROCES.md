@@ -55,4 +55,4 @@ I changed the pie chart text to percentages and deleted the old visualisations w
 
 # day 13
 
-Today i added the search funtion. 
+Today i added the search funtion. I also added the text that show which band you clicked on or searched for.
