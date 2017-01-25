@@ -49,4 +49,6 @@ I made my first extra feature. The extra feature sorts the barchart.
 
 I changed the pie chart text to percentages and deleted the old visualisations when you click on a new bar of the barchart. I also made the pie chart tooltip labels and added the number of studio albums that where not 20 million times sold. I think i have to change the number to a sums of the studio albums, live albums and compilation albums because the label says: 25 albums with less than 20 million sales,507 million (20*25=500 million).
 
+# day 13
 
+Today i added the search funtion. 
