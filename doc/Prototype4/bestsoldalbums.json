@@ -1,0 +1,387 @@
+[
+        {
+            "album": "Legend: The Best of Bob Marley & The Wailers", 
+            "totalsales": "75", 
+            "year": "1984", 
+            "sales": "25", 
+            "artist": "Bob Marley"
+        }, 
+        {
+            "album": "Nevermind", 
+            "totalsales": "75", 
+            "year": "1991", 
+            "sales": "30", 
+            "artist": "Nirvana"
+        }, 
+        {
+            "album": "Confessions", 
+            "totalsales": "75", 
+            "year": "2004", 
+            "sales": "20", 
+            "artist": "Usher"
+        }, 
+        {
+            "album": "Faith", 
+            "totalsales": "80", 
+            "year": "1987", 
+            "sales": "20", 
+            "artist": "George Michael"
+        }, 
+        {
+            "album": "Bat Out of Hell", 
+            "totalsales": "80", 
+            "year": "1977", 
+            "sales": "43", 
+            "artist": "Meat Loaf"
+        }, 
+        {
+            "album": "Metallica", 
+            "totalsales": "80", 
+            "year": "1991", 
+            "sales": "30", 
+            "artist": "Metallica"
+        }, 
+        {
+            "album": "Come On Over", 
+            "totalsales": "85", 
+            "year": "1997", 
+            "sales": "39", 
+            "artist": "Shania Twain"
+        }, 
+        {
+            "album": "The Woman in Me", 
+            "totalsales": "85", 
+            "year": "1995", 
+            "sales": "20", 
+            "artist": "Shania Twain"
+        }, 
+        {
+            "album": "Supernatural", 
+            "totalsales": "90", 
+            "year": "1999", 
+            "sales": "30", 
+            "artist": "Santana"
+        }, 
+        {
+            "album": "21", 
+            "totalsales": "100", 
+            "year": "2011", 
+            "sales": "35", 
+            "artist": "Adele"
+        }, 
+        {
+            "album": "25", 
+            "totalsales": "100", 
+            "year": "2015", 
+            "sales": "20", 
+            "artist": "Adele"
+        }, 
+        {
+            "album": "Backstreets Back / Backstreet Boys", 
+            "totalsales": "100", 
+            "year": "1997", 
+            "sales": "24", 
+            "artist": "Backstreet Boys"
+        }, 
+        {
+            "album": "Millennium", 
+            "totalsales": "100", 
+            "year": "1999", 
+            "sales": "24", 
+            "artist": "Backstreet Boys"
+        }, 
+        {
+            "album": "Slippery When Wet", 
+            "totalsales": "100", 
+            "year": "1986", 
+            "sales": "28", 
+            "artist": "Bon Jovi"
+        }, 
+        {
+            "album": "Cross Road", 
+            "totalsales": "100", 
+            "year": "1994", 
+            "sales": "21", 
+            "artist": "Bon Jovi"
+        }, 
+        {
+            "album": "...Baby One More Time", 
+            "totalsales": "100", 
+            "year": "1999", 
+            "sales": "28", 
+            "artist": "Britney Spears"
+        }, 
+        {
+            "album": "Oops!... I Did It Again", 
+            "totalsales": "100", 
+            "year": "2000", 
+            "sales": "20", 
+            "artist": "Britney Spears"
+        }, 
+        {
+            "album": "Hysteria", 
+            "totalsales": "100", 
+            "year": "1987", 
+            "sales": "20", 
+            "artist": "Def Leppard"
+        }, 
+        {
+            "album": "Brothers in Arms", 
+            "totalsales": "100", 
+            "year": "1985", 
+            "sales": "30", 
+            "artist": "Dire Straits"
+        }, 
+        {
+            "album": "Rumours", 
+            "totalsales": "100", 
+            "year": "1977", 
+            "sales": "40", 
+            "artist": "Fleetwood Mac"
+        }, 
+        {
+            "album": "Appetite for Destruction", 
+            "totalsales": "100", 
+            "year": "1987", 
+            "sales": "30", 
+            "artist": "Guns N Roses"
+        }, 
+        {
+            "album": "Cant Slow Down", 
+            "totalsales": "100", 
+            "year": "1983", 
+            "sales": "20", 
+            "artist": "Lionel Richie"
+        }, 
+        {
+            "album": "Purple Rain", 
+            "totalsales": "100", 
+            "year": "1984", 
+            "sales": "20", 
+            "artist": "Prince"
+        }, 
+        {
+            "album": "Private Dancer", 
+            "totalsales": "100", 
+            "year": "1984", 
+            "sales": "20", 
+            "artist": "Tina Turner"
+        }, 
+        {
+            "album": "Saturday Night Fever", 
+            "totalsales": "120", 
+            "year": "1977", 
+            "sales": "40", 
+            "artist": "Bee Gees"
+        }, 
+        {
+            "album": "Born in the U.S.A.", 
+            "totalsales": "120", 
+            "year": "1984", 
+            "sales": "30", 
+            "artist": "Bruce Springsteen"
+        }, 
+        {
+            "album": "Their Greatest Hits (1971-1975)", 
+            "totalsales": "150", 
+            "year": "1976", 
+            "sales": "42", 
+            "artist": "Eagles"
+        }, 
+        {
+            "album": "Hotel California", 
+            "totalsales": "150", 
+            "year": "1976", 
+            "sales": "32", 
+            "artist": "Eagles"
+        }, 
+        {
+            "album": "No Jacket Required", 
+            "totalsales": "150", 
+            "year": "1985", 
+            "sales": "25", 
+            "artist": "Phil Collins"
+        }, 
+        {
+            "album": "The Joshua Tree", 
+            "totalsales": "150", 
+            "year": "1987", 
+            "sales": "25", 
+            "artist": "U2"
+        }, 
+        {
+            "album": "The Marshall Mathers LP", 
+            "totalsales": "155", 
+            "year": "2000", 
+            "sales": "21", 
+            "artist": "Eminem"
+        }, 
+        {
+            "album": "Gold: Greatest Hits", 
+            "totalsales": "200", 
+            "year": "1992", 
+            "sales": "29", 
+            "artist": "ABBA"
+        }, 
+        {
+            "album": "Back in Black", 
+            "totalsales": "200", 
+            "year": "1980", 
+            "sales": "50", 
+            "artist": "ACDC"
+        }, 
+        {
+            "album": "Falling into You", 
+            "totalsales": "200", 
+            "year": "1996", 
+            "sales": "32", 
+            "artist": "Celine Dion"
+        }, 
+        {
+            "album": "Lets Talk About Love", 
+            "totalsales": "200", 
+            "year": "1997", 
+            "sales": "31", 
+            "artist": "Celine Dion"
+        }, 
+        {
+            "album": "Music Box", 
+            "totalsales": "200", 
+            "year": "1993", 
+            "sales": "32", 
+            "artist": "Mariah Carey"
+        }, 
+        {
+            "album": "Daydream", 
+            "totalsales": "200", 
+            "year": "1995", 
+            "sales": "25", 
+            "artist": "Mariah Carey"
+        }, 
+        {
+            "album": "Greatest Hits", 
+            "totalsales": "200", 
+            "year": "1981", 
+            "sales": "25", 
+            "artist": "Queen"
+        }, 
+        {
+            "album": "The Bodyguard", 
+            "totalsales": "200", 
+            "year": "1992", 
+            "sales": "44", 
+            "artist": "Whitney Houston"
+        }, 
+        {
+            "album": "Whitney Houston", 
+            "totalsales": "200", 
+            "year": "1985", 
+            "sales": "25", 
+            "artist": "Whitney Houston"
+        }, 
+        {
+            "album": "Whitney", 
+            "totalsales": "200", 
+            "year": "1987", 
+            "sales": "20", 
+            "artist": "Whitney Houston"
+        }, 
+        {
+            "album": "The Dark Side of the Moon", 
+            "totalsales": "250", 
+            "year": "1973", 
+            "sales": "45", 
+            "artist": "Pink Floyd"
+        }, 
+        {
+            "album": "The Wall", 
+            "totalsales": "250", 
+            "year": "1979", 
+            "sales": "30", 
+            "artist": "Pink Floyd"
+        }, 
+        {
+            "album": "Led Zeppelin IV", 
+            "totalsales": "300", 
+            "year": "1971", 
+            "sales": "37", 
+            "artist": "Led Zeppelin"
+        }, 
+        {
+            "album": "The Immaculate Collection", 
+            "totalsales": "300", 
+            "year": "1990", 
+            "sales": "30", 
+            "artist": "Madonna"
+        }, 
+        {
+            "album": "Like a Virgin", 
+            "totalsales": "300", 
+            "year": "1984", 
+            "sales": "25", 
+            "artist": "Madonna"
+        }, 
+        {
+            "album": "True Blue", 
+            "totalsales": "300", 
+            "year": "1986", 
+            "sales": "25", 
+            "artist": "Madonna"
+        }, 
+        {
+            "album": "Thriller", 
+            "totalsales": "350", 
+            "year": "1982", 
+            "sales": "65", 
+            "artist": "Michael Jackson"
+        }, 
+        {
+            "album": "Bad", 
+            "totalsales": "350", 
+            "year": "1987", 
+            "sales": "34", 
+            "artist": "Michael Jackson"
+        }, 
+        {
+            "album": "Dangerous", 
+            "totalsales": "350", 
+            "year": "1991", 
+            "sales": "32", 
+            "artist": "Michael Jackson"
+        }, 
+        {
+            "album": "HIStory: Past Present and Future Book I", 
+            "totalsales": "350", 
+            "year": "1995", 
+            "sales": "20", 
+            "artist": "Michael Jackson"
+        }, 
+        {
+            "album": "Off the Wall", 
+            "totalsales": "350", 
+            "year": "1979", 
+            "sales": "20", 
+            "artist": "Michael Jackson"
+        }, 
+        {
+            "album": "Sgt. Peppers Lonely Hearts Club Band", 
+            "totalsales": "600", 
+            "year": "1967", 
+            "sales": "32", 
+            "artist": "The Beatles"
+        }, 
+        {
+            "album": "1", 
+            "totalsales": "600", 
+            "year": "2000", 
+            "sales": "31", 
+            "artist": "The Beatles"
+        }, 
+        {
+            "album": "Abbey Road", 
+            "totalsales": "600", 
+            "year": "1969", 
+            "sales": "30", 
+            "artist": "The Beatles"
+        }
+]
