@@ -33,6 +33,10 @@ Today i made the barchart and started with the timeline. The timeline does have 
 
 I added a hover function with labels to the timeline. I also made code that searches for the lowest and highest year and determines the part of the timeline that should be visable and started with the piechart. 
 
+# day 8
+
+no changes
+
 # day 9
 
 I added the visualisations together and made the link between the barchart and the other visualisations. I started with the function that detects the overlay between lines on the timeline. 
