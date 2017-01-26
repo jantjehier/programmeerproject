@@ -1,0 +1,884 @@
+bar,start,2017,id,band,lanenr,number
+Agnetha Fältskog,1972,1982,lvoc,Abba,0,1
+Björn Ulvaeus,1972,1982,guitar,Abba,1,1
+Björn Ulvaeus,1972,1982,voc,Abba,1,2
+Anni-Frid Lyngstad,1972,1982,voc,Abba,2,1
+Benny Anderson,1972,1982,voc,Abba,2,1
+Dave,1973,1974,lvoc,ACDC,0,1
+Bon,1974,1980,lvoc,ACDC,1,1
+Brian,1980,2016,lvoc,ACDC,2,1
+Axl,2016,2017,lvoc,ACDC,3,1
+Angus,1973,2017,guitar,ACDC,4,1
+Malcolm,1973,2014,guitar,ACDC,5,1
+Stevie,1988,1988,guitar,ACDC,6,1
+Stevie,2014,2017,guitar,ACDC,6,2
+Mark,1975,1977,bass,ACDC,7,1
+Cliff,1977,2016,bass,ACDC,8,1
+Phil,1975,1983,drums,ACDC,9,1
+Simon,1983,1989,drums,ACDC,10,1
+Chris,1989,1994,drums,ACDC,11,
+Phil,1994,2015,drums,ACDC,12,1
+Chris,2015,2017,drums,ACDC,11,2
+Steven Tyler,1970,2017,voc,Aerosmith,0,1
+Steven Tyler,1970,2017,key,Aerosmith,0,2
+Joe Perry,1970,1979,guitar,,Aerosmith,1,1
+Joe Perry,1984,2017,guitar,Aerosmith,1,2
+Joe Perry,1970,1979,voc,,Aerosmith,1,3
+Joe Perry,1984,2017,voc,Aerosmith,1,4
+Tom Hamilton,1970,2017,bass,Aerosmith,2,1
+Joey Kramer,1970,2017,drums,Aerosmith,3,1
+Brad Whitford,1971,1981,guitar,Aerosmith,4,1
+Brad Whitford,1984,2017,guitar,Aerosmith,4,2
+Ray Tabano,1970,1971,guitar,,Aerosmith,5,1
+Jimmy Crespo,1979,1984,guitar,,Aerosmith,6,1
+Jimmy Crespo,1979,1984,voc,Aerosmith,6,2
+Rick Dufay,1981,1984,guitar,Aerosmith,7,1
+Barry Gibb,1958,2003,guitar
+Barry Gibb,2009,2012,guitar
+Barry Gibb,1958,2003,voc,Bee Gees,0,1
+Barry Gibb,2009,2012,voc,Bee Gees,0,2
+Robin Gibb,1958,2003,key,Bee Gees,1,1
+Robin Gibb,1958,2003,voc,Bee Gees,1,2
+Maurice Gibb,1958,2003,voc,Bee Gees,2,1
+Maurice Gibb,1958,2003,bass,Bee Gees,2,2
+Colin Petersen,1967,1969,drums,Bee Gees,3,1
+Vince Melouney,1967,1968,guitar,Bee Gees,4,1
+Geoff Bridgford,1971,1972,drums,Bee Gees,5,1
+Tak Matsumoto,1988,2017,guitar,Bz,0,1
+Koshi Inaba,1988,2017,voc,Bz,1,1
+Karen Carpenter,1969,1983,voc,The Carpenters,0,1
+Richard Carpenter,1969,1983,voc,The Carpenters,1,1
+Kath,1967,1978,guitars,Chicago,0,1
+Kath,1967,1978,voc,Chicago,0,2
+Dacus,1978,1980,guitars,Chicago,1,1
+Dacus,1978,1980,voc,Chicago,1,2
+Pinnick,1980,1986,guitars,Chicago,2,1
+Bailey,1986,1995,guitars,Chicago,3,1
+Bailey,1986,1995,voc,Chicago,3,2
+Howland,1995,2017,guitars,Chicago,4,1
+Howland,1995,2017,voc,Chicago,4,2
+Lamm,1967,2017,keys,Chicago,5,1
+Lamm,1967,2017,voc,Chicago,5,2
+Champlin,1981,2009,keys,Chicago,6,1
+Champlin,1981,2009,voc,Chicago,6,2
+Pardini,2009,2017,keys,Chicago,7,1
+Pardini,2009,2017,voc,Chicago,7,2
+Cetera,1967,1985,bass,Chicago,8,1
+Cetera,1967,1985,voc,Chicago,8,2
+Scheff,1985,2016,bass,Chicago,9,1
+Scheff,1985,2016,voc,Chicago,9,2
+Coffey,2016,2017,bass,Chicago,10,1
+Coffey,2016,2017,voc,Chicago,10,2
+Seraphine,1967,1990,drums,Chicago,11,1
+Seraphine,2016,2016,drums,Chicago,11,2
+Imboden,1990,2017,drums,Chicago,12,1
+Loughnane,1967,2017,horns,Chicago,13,1
+Pankow,1967,2017,horns,Chicago,14,1
+Parazaider,1967,2017,horns,Chicago,15,1
+Oliveira,1973,1981,percussion,Chicago,16,1
+Hester,2009,2012,percussion,Chicago,17,1
+WReyes,2012,2017,percussion,Chicago,18,1
+Glenn Frey,1971,1980,guitar,Eagles,0,1
+Glenn Frey,1994,2016,guitar,Eagles,0,2
+Bernie Leadon,1971,1976,guitar,Eagles,1,1
+Bernie Leadon,2013,2016,guitar,Eagles,1,2
+Don Felder,1974,1980,guitar,Eagles,3,1
+Don Felder,1994,2001,guitar,Eagles,3,2
+Joe Walsh,1976,1980,guitar,Eagles,4,1
+Joe Walsh,1994,2016,guitar,Eagles,4,1
+Randy Meisner,1971,1977,bass,Eagles,5,1
+Timothy B. Schmit,1977,1980,bass,Eagles,6,1
+Timothy B. Schmit,1994,2016,bass,Eagles,6,2
+Don Henley,1971,1980,drums,Eagles,7,1
+Don Henley,1994,2016,drums,Eagles,7,2
+Glenn Frey,1971,1980,key,Eagles,8,1
+Glenn Frey,1994,2016,key,Eagles,8,2
+Joe Walsh,1976,1980,guitar,Eagles,4,3
+Joe Walsh,1994,2016,key,Eagles,4,4
+Don Henley,1994,2016,guitar,Eagles,7,3
+Glenn Frey,1971,1980,voc,Eagles,8,1
+Glenn Frey,1994,2016,voc,Eagles,8,2
+Bernie Leadon,1971,1976,voc,Eagles,1,3
+Bernie Leadon,2013,2016,voc,Eagles,1,4
+Don Felder,1974,1980,voc,Eagles,3,3
+Don Felder,1994,2001,voc,Eagles,3,4
+Joe Walsh,1976,1980,voc,Eagles,4,5
+Joe Walsh,1994,2016,voc,Eagles,4,6
+Randy Meisner,1971,1977,voc,Eagles,5,2
+Timothy B. Schmit,1977,1980,voc,Eagles,6,3
+Timothy B. Schmit,1994,2016,voc,,Eagles,6,4
+Don Henley,1971,1980,voc,Eagles,7,3
+Don Henley,1994,2016,voc,Eagles,7,4
+Jimmy Page,1968,1980,guitar,Led Zeppelin,0,1
+Jimmy Page,1985,1986,guitar,Led Zeppelin,0,2
+Jimmy Page,1988,1989,guitar,Led Zeppelin,0,3
+Jimmy Page,1995,1996,guitar,Led Zeppelin,0,4
+Jimmy Page,2007,2008,guitar,Led Zeppelin,0,5
+Robert Plant,1968,1980,lvoc,Led Zeppelin,1,1
+Robert Plant,1985,1986,lvoc,Led Zeppelin,1,2
+Robert Plant,1988,1989,lvoc,Led Zeppelin,1,3
+Robert Plant,1995,1996,lvoc,Led Zeppelin,1,4
+Robert Plant,2007,2008,lvoc,Led Zeppelin,1,5
+John Paul Jones,1968,1980,key,Led Zeppelin,2,1
+John Paul Jones,1985,1986,key,Led Zeppelin,2,2
+John Paul Jones,1988,1989,key,Led Zeppelin,2,3
+John Paul Jones,1995,1996,key,Led Zeppelin,2,4
+John Paul Jones,2007,2008,key,Led Zeppelin,2,5
+John Paul Jones,1968,1980,bass2,Led Zeppelin,2,6
+John Paul Jones,1985,1986,bass2,Led Zeppelin,2,7
+John Paul Jones,1988,1989,bass2,Led Zeppelin,2,8
+John Paul Jones,1995,1996,bass2,Led Zeppelin,2,9
+John Paul Jones,2007,2008,bass2,Led Zeppelin,2,10
+John Bonham,1968,1980,drums,Led Zeppelin,3,1
+Hetfield,1981,2017,lvoc,Metallica,0,1
+Lars,1981,2017,drums,Metallica,1,1
+Ron,1982,1982,bass,Metallica,2,1
+Mustaine,1982,1983,guitar,Metallica,3,1
+Mustaine,1982,1983,voc,Metallica,3,2
+Cliff,1982,1986,bass,Metallica,4,1
+Cliff,1982,1986,voc,Metallica,4,2
+Kirk,1983,2017,guitar,Metallica,5,1
+Kirk,1983,2017,voc,Metallica,5,2
+Newsted,1986,2001,bass,Metallica,6,1
+Newsted,1986,2001,voc,Metallica,6,2
+Trujillo,2003,2017,bass,Metallica,7,1
+Trujillo,2003,2017,voc,Metallica,7,2
+Roger Waters,1965,1985,bass,Pink Floyd,0,1
+Roger Waters,2005,2006,bass,Pink Floyd,0,2
+Roger Waters,1965,1985,voc,Pink Floyd,0,3
+Roger Waters,2005,2006,voc,Pink Floyd,0,4
+David Gilmour,1967,1995,guitar,Pink Floyd,1,1
+David Gilmour,2005,2006,guitar,Pink Floyd,1,2
+David Gilmour,2014,2015,guitar,Pink Floyd,1,3
+David Gilmour,1967,1995,voc,Pink Floyd,1,4
+David Gilmour,2005,2006,voc,Pink Floyd,1,5
+David Gilmour,2014,2015,voc,Pink Floyd,1,6
+Nick Mason,1965,1995,drums,Pink Floyd,2,1
+Nick Mason,2005,2006,drums,Pink Floyd,2,2
+Nick Mason,2014,2015,drums,Pink Floyd,2,3
+Richard Wright,1965,1979,key,Pink Floyd,3,1
+Richard Wright,1987,1995,key,Pink Floyd,3,2
+Richard Wright,2005,2006,key,Pink Floyd,3,3
+Richard Wright,1965,1979,voc,Pink Floyd,3,4
+Richard Wright,1987,1995,voc,Pink Floyd,3,5
+Richard Wright,2005,2006,voc,Pink Floyd,3,6
+Syd Barrett,1965,1968,guitar,Pink Floyd,4,1
+Brian May,1970,2017,guitar,Queen,0,1
+Brian May,1970,2017,voc,Queen,0,2
+Roger Taylor,1970,2017,drums,Queen,1,1
+Roger Taylor,1970,2017,voc,Queen,1,2
+Freddie Mercury,1970,1991,piano,Queen,2,1
+Freddie Mercury,1970,1991,voc,Queen,2,2
+John Deacon,1971,1997,bass,Queen,3,1
+Paul Rodgers,2004,2009,lvoc,Queen,4,1
+Adam Lambert,2011,2017,lvoc,Queen,5,1
+kiedis,1983,1986,lvoc,Red Hot chili Peppers,0,1
+kiedis,1986,2017,lvoc,Red Hot chili Peppers,0,2
+flea,1983,2017,bass,Red Hot chili Peppers,1,1
+smith,1988,2017,drums,Red Hot chili Peppers,2,1
+klinghoffer,2007,2017,guitar,Red Hot chili Peppers,3,1
+slovak,1983,1983,guitar,Red Hot chili Peppers,4,1
+slovak,1985,1988,guitar,Red Hot chili Peppers,4,2
+irons,1983,1983,drums,Red Hot chili Peppers,5,1
+irons,1986,1988,drums,Red Hot chili Peppers,5,2
+martinez,1983,1986,drums,Red Hot chili Peppers,6,1
+sherman,1983,1984,guitar,Red Hot chili Peppers,7,1
+mcknight,1988,1988,guitar,Red Hot chili Peppers,8,1
+peligro,1988,1988,drums,Red Hot chili Peppers,9,1
+marshall,1992,1993,guitar,Red Hot chili Peppers,10,1
+tobias,1993,1993,guitar,Red Hot chili Peppers,11,1
+navarro,1993,1998,guitar,Red Hot chili Peppers,12,1
+frusciante,1988,1992,guitar,Red Hot chili Peppers,13,1
+frusciante,1998,2009,guitar,Red Hot chili Peppers,13,2
+Bill Berry,1980,1997,drums,REM,0,1
+Bill Berry,1980,1997,voc,REM,0,1
+Peter Buck,1980,2011,guitar,REM,1,1
+Mike Mills,1980,2011,bass,REM,2,1
+Mike Mills,1980,2011,voc,REM,2,2
+Michael Stipe,1980,2011,lvoc,REM,3,1
+Anthony,2005,2014,guitar,Santana,1,1
+Areas,1988,1989,percussion,Santana,2,1
+Areas,1974,1975,percussion,Santana,2,2
+Areas,1972,1973,percussion,Santana,2,3
+Areas,1969,1971,percussion,Santana,2,4
+Areas,1976,1977,percussion,Santana,2,5
+Baker,1980,1982,key,Santana,3,1
+Billy,1994,1994,drums,Santana,4,1
+Billy,2000,2001,drums,Santana,4,2
+Billy,1991,1991,drums,Santana,4,3
+Birch,1976,1976,drums,Santana,5,1
+Birch,1991,1991,drums,Santana,5,2
+Blackman-Santana,2015,2017,drums,Santana,6,1
+Boadie,1976,1976,lvoc,Santana,7,1
+Bradford,1994,1996,drums,Santana,8,1
+Brown,1974,1976,bass,Santana,9,1
+Brown,1967,1971,bass,Santana,9,2
+Carabello,1966,1967,percussion,Santana,11,1
+Carabello,1969,1971,percussion,Santana,11,
+Carabello,2013,2017,percussion,Santana,11,3
+Chambers,2002,2013,drums,Santana,10,1
+Chancler,1974,1976,drums,Santana,12,1
+Chancler,1988,1988,drums,Santana,12,2
+Chester,1984,1984,drums,Santana,13,1
+Coke,1978,1979,percussion,Santana,14,1
+Coke,1971,1971,percussion,Santana,14,2
+Cooper,1992,1993,lvoc,Santana,15,1
+Coster,1983,1984,key,Santana,16,1
+Coster,1987,1987,key,Santana,16,2
+Coster,1972,1978,key,Santana,16,3
+Crew,1986,1986,key,Santana,17,1
+Dove,1993,1996,bass,Santana,18,1
+Dove,1993,1996,guitar,Santana,18,2
+Dove,2003,2005,guitar,Santana,18,3
+Fraser,1966,1967,guitar,Santana,19,1
+Harper,1966,1967,drums,Santana,20,1
+Hernandez,1997,1997,drums,Santana,21,1
+Holmes,1993,1994,drums,Santana,22,1
+Holmes,1997,2000,drums,Santana,22,2
+Jimenez,2013,2014,drums,Santana,23,1
+Johnson,1984,1989,bass,Santana,24,1
+Johnson,1992,1992,bass,Santana,24,2
+Jones,1983,1983,bass,Santana,25,1
+Jones,1989,1989,bass,Santana,25,2
+Kermode,1972,1973,key,Santana,26,1
+Lear,1985,1987,drums,Santana,27,1
+Lear,1976,1983,drums,Santana,27,2
+Lewis,1972,1972,percussion,Santana,28,1
+Ligertwood,1984,1985,lvoc,Santana,29,1
+Ligertwood,1987,1987,lvoc,Santana,29,2
+Ligertwood,1989,1991,lvoc,Santana,29,3
+Ligertwood,1992,1994,lvoc,Santana,29,4
+Ligertwood,1979,1983,lvoc,Santana,29,5
+Lindsay,2012,2014,lvoc,Santana,30,1
+Lindsay,1991,1991,lvoc,Santana,30,2
+Lindsay,1995,2003,lvoc,Santana,30,3
+Livingstone,1967,1969,drums,Santana,31,1
+Malone,1966,1969,percussion,Santana,32,1
+Margen,1977,1983,bass,Santana,33,1
+Mathews,2011,2017,key,Santana,34,1
+Mejias,2013,2017,percussion,Santana,35,1
+Miles,1973,1973,guitar,Santana,36,1
+Miles,1973,1973,voc,Santana,36,2
+Miles,1972,1972,drums,Santana,36,3
+Miller,1976,1976,bass,Santana,37,1
+Pantoja,1971,1971,percussion,Santana,38,1
+Pasqua,1979,1980,key,Santana,39,1
+Patillo,1974,1975,lvoc,Santana,40,1
+Patillo,1976,1976,lvoc,Santana,40,2
+Peraza,1977,1990,percussion,Santana,41,1
+Peraza,1972,1976,percussion,Santana,41,2
+Perazzo,1991,2017,percussion,Santana,42,1
+Pete,1977,1978,percussion,Santana,43,1
+Pete,1971,1971,percussion,Santana,43,2
+Rabb,1976,1976,lvoc,Santana,44,1
+Rauch,1972,1973,bass,Santana,45,1
+Ravel,2009,2010,key,Santana,46,1
+Rekow,1976,2013,percussion,Santana,47,1
+Reyes,1972,1972,percussion,Santana,48,1
+Reyes,1972,1972,voc,Santana,48,2
+Reyes,1970,1971,percussion,Santana,48,3
+Reyes,1970,1971,voc,Santana,48,4
+Rhyne,1978,1979,key,Santana,49,1
+Rietveld,1990,1992,bass,Santana,50,1
+Rietveld,1997,2017,bass,Santana,50,2
+Rodriguez,1966,1967,bass,Santana,51,1
+Rolie,1966,1972,key,Santana,52,2
+Rolie,1982,1983,key,Santana,52,3
+Rolie,2013,2017,key,Santana,52,4
+Rolie,1986,1988,key,Santana,52,5
+Rolie,1966,1972,voc,Santana,51,7
+Rolie,2013,2017,voc,Santana,52,6
+Rutley,1971,1972,bass,Santana,53,1
+Salgado,1995,1995,lvoc,Santana,54,1
+Sancious,1984,1984,guitar,Santana,55,1
+Sancious,1984,1984,key,Santana,55,2
+Santana,1966,2017,guitar,Santana,0,1
+Santana,1966,2017,voc,Santana,0,2
+Schon,1971,1972,guitar,Santana,56,1
+Schon,2013,2017,guitar,Santana,56,2
+Shrieve,1973,1974,drums,Santana,57,1
+Shrieve,1988,1988,drums,Santana,57,2
+Shrieve,1969,1972,drums,Santana,57,3
+Shrieve,2013,2017,drums,Santana,57,4
+Solberg,1978,1980,guitar,Santana,58,1
+Tellez,1976,1977,bass,Santana,59,1
+Thomas,1973,1973,lvoc,Santana,60,1
+Thompson,1983,2009,key,Santana,61,1
+Vargas,2000,2014,lvoc,Santana,62,1
+Vilato,1980,1987,percussion,Santana,63,1
+Walfredo,1989,1991,drums,Santana,64,1
+Walfredo,1992,1993,drums,Santana,64,2
+Walker,1983,1985,lvoc,Santana,65,1
+Walker,1975,1976,lvoc,Santana,65,2
+Walker,1976,1979,lvoc,Santana,65,3
+Wellman,1997,1997,drums,Santana,66,1
+Jagger,1962,2017,Guitar,The Rolling Stones,0,1
+Jagger,1962,2017,voc,The Rolling Stones,0,2
+Richards,1962,2017,Guitar,The Rolling Stones,1,1
+Richards,1962,2017,voc,The Rolling Stones,1,2
+Jones,1962,1969,Guitar,The Rolling Stones,3,1
+Jones,1962,1969,Harmonica2,The Rolling Stones,3,2
+MTaylor,1969,1975,Guitar,The Rolling Stones,4,1
+MTaylor,1969,1975,voc,The Rolling Stones,4,2
+MTaylor,1981,1981,Guitar,The Rolling Stones,4,3
+MTaylor,2012,2014,Guitar,The Rolling Stones,4,4
+MTaylor,2012,2014,Guitar,The Rolling Stones,4,5
+Wood,1975,2017,Guitar,The Rolling Stones,5,1
+Wyman,1962,1993,Bass,The Rolling Stones,6,1
+Wyman,2012,2012,Bass,The Rolling Stones,6,2
+Watts,1963,2017,Drums,The Rolling Stones,7,1
+Stewart,1962,1985,Key,The Rolling Stones,8,1
+Bono,1976,2017,guitar,U2,0,1
+Bono,1976,2017,voc,U2,0,2
+The Edge,1976,2017,guitar,U2,1,1
+The Edge,1976,2017,key,U2,1,2
+Adam Clayton,1976,2017,bass,U2,2,1
+Larry Mullen Jr,1976,2017,drums,U2,3,1
+Dik Evans,1976,1978,guitar,U2,4,1
+Ivan McCormick,1976,1977,guitar,U2,5,1
+Adele,2011,2017,lvoc,Adele,0,1
+Randy Owen,1969,2004,guitar,Alabama,0,1
+Randy Owen,1969,2004,voc,Alabama,0,2
+Randy Owen,2006,2007,guitar,Alabama,0,3
+Randy Owen,2006,2007,voc,Alabama,0,4
+Randy Owen,2011,2017,guitar,Alabama,0,5
+Randy Owen,2011,2017,voc,Alabama,0,6
+Teddy Gentry,1969,2004,bass,Alabama,1,1
+Teddy Gentry,1969,2004,voc,Alabama,1,2
+Teddy Gentry,2006,2007,bass,Alabama,1,3
+Teddy Gentry,2006,2007,voc,Alabama,1,4
+Teddy Gentry,2011,2017,bass,Alabama,1,5
+Teddy Gentry,2011,2017,voc,Alabama,1,6
+Jeff Cook,1969,2004,guitar,Alabama,2,1
+Jeff Cook,1969,2004,key2,Alabama,2,2
+Jeff Cook,2006,2007,guitar,Alabama,2,3
+Jeff Cook,2006,2007,key2,Alabama,2,4
+Jeff Cook,2011,2017,guitar,Alabama,2,5
+Jeff Cook,2011,2017,key2,Alabama,2,6
+Mark Herndon,1979,2004,drums,Alabama,3,1
+Rick Scott,1974,1979,drums,Alabama,4,1
+Benett Vartanian,1972,1974,drums,Alabama,5,1
+Don Perkey,1975,1978,drums,Alabama,6,1
+Jackie Owen,1969,1972,drums,Alabama,7,1
+Aretha Franklin,1956,2017,lvoc,Aretha Franklin,0,1
+A. J. McLean,1993,2017,lvoc,Backstreet Boys,0,1
+Howie D.,1993,2017,lvoc,Backstreet Boys,1,1
+Nick Carter,1993,2017,lvoc,Backstreet Boys,2,1
+Brian Littrell,1993,2017,lvoc,Backstreet Boys,3,1
+Kevin Richardson,1993,2006,lvoc,Backstreet Boys,4,1
+Kevin Richardson,2012,2017,lvoc,Backstreet Boys,4,2
+Barbra Streisand,1963,2017,lvoc,Barbra Streisand,0,1
+Barry Manilow,1964,2017,lvoc,Barry Manilow,0,1
+Beyonce,1997,2017,lvoc,Beyonce,0,1
+Billy Joel,1965,2017,lvco,Billy Joel,0,1
+Bob Dylan,1959,2017,guitar,Bob Dylan,0,1
+Bob Dylan,1959,2017,voc,Bob Dylan,0,2
+Bob Marley,1862,1981,guitar,Bob Marley,0,1
+Bob Marley,1862,1981,voc,Bob Marley,0,2
+Jon Bon Jovi,1983,2017,guitar,Bon Jovi,0,1
+Jon Bon Jovi,1983,2017,voc,Bon Jovi,0,2
+Dave Sabo,1983,1984,guitar,Bon Jovi,1,1
+Richie Sambora,1994,2013,guitar,Bon Jovi,2,1
+Richie Sambora,1994,2013,voc,Bon Jovi,2,2
+Phil X,2013,2016,guitar,Bon Jovi,3,1
+Phil X,2013,2016,voc,Bon Jovi,3,2
+Alec John Such,1983,1993,bass,Bon Jovi,4,1
+Alec John Such,1983,1993,voc,Bon Jovi,4,2
+Hugh McDonald,1994,2017,bass,Bon Jovi,5,1
+Hugh McDonald,1994,2017,voc,Bon Jovi,5,2
+David Bryan,1983,2017,key,Bon Jovi,6,1
+David Bryan,1983,2017,voc,Bon Jovi,6,2
+Tico Torres,1983,2017,drums,Bon Jovi,7,1
+Britney Spears,1992,2017,lvoc,Britney Spears,0,1
+Bruce Springsteen,1972,2017,guitar,Bruce Springsteen,0,1
+Bruce Springsteen,1972,2017,voc,Bruce Springsteen,0,2
+Bruno Mars,2007,2017,lvoc,Bruno Mars,0,1
+Bryan Adams,1976,2017,lvoc,Bryan Adams,0,1
+Celine Dion.1981,2017,lvoc,Celine Dion,0,1
+Cher,1963,2017,lvoc,Cher,0,1
+Chris Martin,1996,2017,lvoc,Coldplay,0,1
+Jonny Buckland,1996,2017,guitar,Coldplay,1,1
+Jonny Buckland,1996,2017,voc,Coldplay,1,2
+Guy Berrymen,1996,2017,bass,Coldplay,2,1
+Will Champion,1996,2017,drums,Coldplay,3,1
+Guy Berrymen,1996,2017,voc,Coldplay,2,2
+Will Champion,1996,2017,voc,Coldplay,3,2
+David Bowie.1962,2016,lvoc,David Bowie,0,1
+Joe Elliott,1977,2017,lvoc,Def Leppard,0,1
+Rick Savage,1977,2017,bass,Def Leppard,1,1
+Rick Savage,1977,2017,voc,Def Leppard,1,2
+Rick Allan,1978,2017,drums,Def Leppard,2,1
+Rick Allan,1978,2017,voc,Def Leppard,2,2
+Phil Collen,1982,2017,guitar,Def Leppard,3,1
+Phil Collen,1982,2017,voc,Def Leppard,3,2
+Vivian Campbell,1992,2017,guitar,Def Leppard,4,1
+Vivian Campbell,1992,2017,voc,Def Leppard,4,2
+Tony Kenning,1977,1978,drums,Def Leppard,5,1
+Pete Willis,1977,1982,guitar,Def Leppard,6,1
+Pete Willis,1977,1982,voc,Def Leppard,6,2
+Steve Clark,1978,1991,guitar,Def Leppard,7,1
+Steve Clark,1978,1991,voc,Def Leppard,7,2
+Mark Knopfler,1977,1995,guitar,Dire Straits,0,1
+Mark Knopfler,1977,1995,voc,Dire Straits,0,2
+John Illsley,1977,1995,bass,Dire Straits,1,1
+John Illsley,1977,1995,voc,Dire Straits,1,2
+Pick Withers,1977,1982,drums,Dire Straits,2,1
+David Knopfler,1977,1980,guitar,Dire Straits,3,1
+David Knopfler,1977,1980,voc,Dire Straits,3,2
+Alan Clark,1980,1995,key,Dire Straits,4,1
+Hai Lindes,1980,1985,guitar,Dire Straits,5,1
+Terry Williams,1982,1984,drums,Dire Straits,6,1
+Terry Williams,1985,1989,drums,Dire Straits,6,2
+Guy Fletcher,1984,1995,key,Dire Straits,7,1
+Guy Fletcher,1984,1995,voc,Dire Straits,7,2
+Jack Sonni,1985,1988,guitar,Dire Straits,8,1
+Chris White,1985,1995,sax,Dire Straits,9,1
+Chris Whitten,1991,1992,drums,Dire Straits,10,1
+Donna Summer,1968,2012,lvoc,Donna Summer,0,1
+Elton John,1963,2017,lvoc,Elton John,0,1
+Elvis Presley,1953,1977,lvoc,Elvis Presley,0,1
+Eminem,1988,2017,lvoc,Eminem,0,1
+Enya,1980,2017,lvoc,Enya,0,1
+Flo Rida,2000,2017,lvoc,Flo Rida,0,1
+Frank Sinatra,1935,1995,lvoc,Frank Sinatra,0,1
+Garth Brooks,1989,2001,lvoc,Garth Brooks,0,1
+Garth Brooks,2006,2007,lvoc,Garth Brooks,0,2
+Peter Gabriel,1967,1975,flute,Genenis,0,1
+Peter Gabriel,1967,1975,voc,Genenis,0,2
+Tony Banks,1967,1998,key,Genesis,1,1
+Tony Banks,1967,1998,voc,Genesis,1,2
+Tony Banks.2007,2008,key,Genesis,1,3
+Tony Banks,2007,2008,voc,Genesis,1,4
+Phil Collins,1970,1996,drums,Genesis,2,1
+Phil Collins,1970,1996,voc,Genesis,2,2
+Phil Collins,2007,2008,key,Genesis,2,3
+Phil Collins,2007,2008,voc,Genesis,2,4
+Steve Hackett,1970,1977,guitar,3,1
+John Mayhew,1970,1971,drums,Genesis,4,1
+John Mayhew,1970,1971,voc,Genesis,4,2
+Anthony Phillips,1967,1970,guitar,Genesis,5,1
+Anthony Phillips,1967,1970,voc,Genesis,5,2
+Mike Rutherford,1967,1998,bass,Genesis,6,1
+Mike Rutherford,1967,1998,voc,Genesis,6,2
+Mike Rutherford,2007,2008,guitar,Genesis,6,3
+Mike Rutherford,2007,2008,voc,Genesis,6,4
+Jonathan Silver,1967,1969,drums,Genesis,7,1
+Chris Steward,1967,1968,drums,Genesis,8,1
+Ray Wilson,1996,1998,lvoc,Genesis,9,1
+George Michael,1981,2016,lvoc,George Michael,0,1
+George Strait,1976,2017,guitar,George Strait,0,1
+George Strait,1976,2017,voc,George Strait,0,2
+James Taylor,1968,2017,lvoc,James Taylor,0,1
+Janet Jackson,1982,2017,lvoc,Janet Jackson,0,2
+Jay Z,1992,2017,lvoc,Jay Z,0,1
+Johnny Cash,1955,2013,guitar,Johnny Cash,0,1
+Johnny Cash,1955,2013,voc,Johnny Cash,0,2
+Johnny Hallyday,1958,2017,lvoc,Johnny Hallyday,0,1
+Julio Iglesias,1968,2017,lvoc,Julio Iglesias,0,1
+Justin Bieber,2009,2017,lvoc,Justin Bieber,0,1
+Kanye West,1996,2017,lvoc,Kanye West,0,1
+Katy Perry,2001,2017,lvoc,Katy Perry,0,1
+Kenny G,1982,2017,lvoc,Kenny G,0,1
+Kenny Rogers,1958,2016,lvoc,Kenny Rogers,0,1
+Lady Gaga,2005,2017,lvoc,Lady Gaga,0,1
+Lil Wayne, 1998,2017,lvoc,Lil Wayne,0,1
+Linda Ronstadt,1964,2017,lvoc,Linda Ronstadt,0,1
+Lionel Richie,1968,2017,lvoc,Lionel Richie,0,1
+Madonna,1979,2017,lvoc,Madonna,0,1
+Mariah Carey,1988,2017,lvoc,Mariah Carey,0,1
+Marvin Lee Aday,1968,2013,lvoc,Meatloaf,0,1
+Michael Jackson,1968,2009,lvoc,Michael Jackson,0,1
+Neil Diamond,1958,2017,guitar,Neil Diamond,0,1
+Neil Diamond,1958,2017,voc,Neil Diamond,0,2
+Maurice White,1969,1984,drums,Earth Wind & Fire,0,1
+Maurice White,1969,1984,voc,Earth Wind & Fire,0,2
+Maurice White,1987,2016,drums,Earth Wind & Fire,0,3
+Maurice White,1987,2016,voc,Earth Wind & Fire,0,4
+Sherry Scott,1969,1972,lvoc,Earth Wind & Fire,1,1
+Philip Bailey,1972,1984,trompet,Earth Wind & Fire,2,1
+Philip Bailey,1972,1984,voc,Earth Wind & Fire,2,1
+Philip Bailey,1987,2017,trompet,Earth Wind & Fire,2,2
+Philip Bailey,1987,2017,voc,Earth Wind & Fire,2,3
+Jessica Cleaves,1972,1974,lvoc,Earth Wind & Fire,3,1
+Kimberley Brewer,2002,2004,lvoc,Earth Wind & Fire,4,1
+Krystal Bailey,2002,2003,lvoc,Earth Wind & Fire,5,1
+Kim Johnson,2002,2012,lvoc,Earth Wind & Fire,6,1
+Philip Bailey Jr.,2008,2017,lvoc,Earth Wind & Fire,7,1
+Leslie Drayton,1969,1972,trompet,Earth Wind & Fire,8,1
+Alexander Thomas,1969,1972,trombone,Earth Wind & Fire,9,1
+Chester Washington,1969,1972,sax,Earth Wind & Fire,10,1
+Micheal Beal,1969,1972,guitar,Earth Wind & Fire,11,1
+Ronnie Laws,1972,1973,sax,Earth Wind & Fire,12,1
+Andrew Woolfolk,1973,1984,sax,Earth Wind & Fire,13,1
+Andrew Woolfolk,1987,1994,sax,Earth Wind & Fire,13,2
+Roland Bautista,1972,1973,guitar,Earth Wind & Fire,14,1
+Roland Bautista,1982,1984,guitar,Earth Wind & Fire,14,2
+Roland Bautista,1982,1984,voc,Earth Wind & Fire,14,3
+Johnny Graham,1973,1984,guitar,Earth Wind & Fire,15,1
+Al Mckay,1973,1982,guitar,Earth Wind & Fire.16,1
+Al Mckay,1973,1982,voc,Earth Wind & Fire.16,2
+Sheldon Reynolds,1987,2003,guitar,Earth Wind & Fire,17,1
+Sheldon Reynolds,1987,2003,voc,Earth Wind & Fire,17,2
+Dick Smith,1987,1992,guitar,Earth Wind & Fire,18,1
+Dick Smith,1987,1992,voc,Earth Wind & Fire,18,2
+Bobby Gonzales,2002,2003,guitar,Earth Wind & Fire,19,1
+Bobby Gonzales,2002,2003,voc,Earth Wind & Fire,19,2
+John Johnson,2002,2004,guitar,Earth Wind & Fire,20,1
+John Johnson,2002,2004,voc,Earth Wind & Fire,20,2
+Greg G-Mo More,2004,2007,guitar,Earth Wind & Fire,21,1
+Greg G-Mo More,2007,2012,guitar,Earth Wind & Fire,21,2
+Greg G-Mo More,2007,2012,voc,Earth Wind & Fire,21,3
+Vadim Zilberstein,2004,2007,guitar,Earth Wind & Fire,22,1
+Vadim Zilberstein,2004,2007,voc,Earth Wind & Fire,22,2
+Morris O Connor,2007,2017,guitar,Earth Wind & Fire,23,1
+Serg Dimitrijevic,2012,2017,guitar,Earth Wind & Fire,24,1
+Serg Dimitrijevic,2012,2017,voc,Earth Wind & Fire,24,2
+Wade Flemons,1969,1972,key,Earth Wind & Fire,25,1
+Wade Flemons,1969,1972,voc,Earth Wind & Fire,25,2
+Don Whitehead,1969,1972,key,Earth Wind & Fire,26,1
+Don Whitehead,1969,1972,voc,Earth Wind & Fire,26,2
+Larry Dunn,1972,1984,key,Earth Wind & Fire,27,1
+Larry Dunn,1972,1984,flute2,Earth Wind & Fire,27,2
+Vance Taylor,1987,1993,key,Earth Wind & Fire,28,1
+Vance Taylor,1987,1993,flute2,Earth Wind & Fire,28,2
+Fred Ravel,1993,2001,key,Earth Wind & Fire,29,1
+Fred Ravel,1993,2001,bass2,Earth Wind & Fire,29,2
+Morris Pleasure,1994,1999,key,Earth Wind & Fire,30,1
+Morris Pleasure,1994,1999,bass2,Earth Wind & Fire,30,2
+Mike Mcknight,1996,1999,key,Earth Wind & Fire,31,1
+Robert Brookins,1998,2004,key,Earth Wind & Fire,32,1
+Robert Brookins,1998,2004,flute2,Earth Wind & Fire,32,1
+Myro Mckinley,2002,2017,key,Earth Wind & Fire,33,1
+Myro Mckinley,2002,2017,flute2,Earth Wind & Fire,33,2
+Verdine White,1969,1984,bass,Earth Wind & Fire,34,1
+Verdine White,1973,1984,voc,Earth Wind & Fire,34,2
+Verdine White,1997,2017,bass,Earth Wind & Fire,34,3
+Ralph Johnson,1972,1984,drums,Earth Wind & Fire,35,1
+Ralph Johnson,1974,1984,voc,Earth Wind & Fire,35,2
+Ralph Johnson,1987,2017,drums,Earth Wind & Fire,35,2
+Ralph Johnson,1987,2017,voc,Earth Wind & Fire,35,3
+Fred White,1974,1984,drums,Earth Wind & fire,36,1
+Fred White,1974,1984,percussion,Earth Wind & fire,36,2
+Sonny Emory,1987,1999,drums,Earth Wind & Fire,37,1
+Sonny Emory,1987,1999,voc,Earth Wind & Fire,37,2
+Gordon Campbell,1999,2002,drums,Earth Wind & Fire,38,1
+John Paris,2002,2017,drums,Earth Wind & Fire,39,1
+Yackov Bon Isreal,1969,1972,percussion,Earth Wind & Fire,40,1
+Beloyd Taylor,1982,1983,percussion,Earth Wind & Fire,41,1
+David Romero,1994,1999,percussion,Earth Wind & Fire,42,1
+B. David Withworth,1996,2017,percussion,Earth Wind & Fire,43,1
+B. David Withworth,1996,2017,voc,Earth Wind & Fire,43,2
+Daniel de los Reyes,2001,2004,percussion,Earth Wind & Fire,44,1
+Paul Stanley,1973,2017,guitar,Kiss,0,1
+Paul Stanley,1973,2017,voc,Kiss,0,2
+Gene Simmons,1973,2017,bass,Kiss,1,1
+Gene Simmons,1973,2017,voc,Kiss,1,2
+Eric Singer,1991,1996,drums,Kiss,2,1
+Eric Singer,1991,1996,voc,Kiss,2,2
+Eric Singer,2001,2002,drums,Kiss,2,3
+Eric Singer,2001,2002,voc,Kiss,2,4
+Eric Singer,2004,2017,drums,Kiss,2,5
+Eric Singer,2004,2017,voc,Kiss,2,4
+Tommy Thayer,2002,2017,guitar,Kiss,3,1
+Tommy Thayer,2002,2017,voc,Kiss,3,1
+Ace Frehley,1973,1982,guitar,Kiss,4,1
+Ace Frehley,1973,1982,voc,Kiss,4,2
+Ace Frehley,1996,2002,guitar,Kiss,4,3
+Ace Frehley,1996,2002,voc,Kiss,4,3
+Peter Criss,1973,1980,drums,Kiss,5,1
+Peter Criss,1973,1980,voc,Kiss,5,2
+Peter Criss,1996,2000,drums,Kiss,5,3
+Peter Criss,1996,2000,voc,Kiss,5,4
+Peter Criss,2000,2002,guitar,Kiss,5,5
+Peter Criss,2002,2002,voc,Kiss,5,6
+Eric Carr,1980,1991,drums,Kiss,6,1
+Eric Carr,1980,1991,voc,Kiss,6,2
+Vinnie Vincent,1982,1984,guitar,Kiss,7,1
+Vinnie Vincent,1982,1984,voc,Kiss,7,2
+Mark St. John,1984,1985,guitar,Kiss,8,1
+Mark St. John,1984,1985,voc,Kiss,8,2
+Bruce Kulick,1984,1996,guitar,Kiss,9,1
+Bruce Kulick,1984,1996,voc,Kiss,9,2
+Kurt Cobain,1987,1994,guitar,Nirvana,0,1
+Kurt Cobain,1987,1994,voc,Nirvana,0,1
+Krist Novoselic,1987,1994,bass,Nirvana,1,1
+Dave Grohl,1990,1994,drums,Nirvana,2,1
+Dave Grohl,1990,1994,voc,Nirvana,2,2
+Pat Smear,1993,1994,guitar,Nirvana,3,1
+Aaron Burckhard,1987,1988,drums,Nirvana,4,1
+Dale Crover,1988,1990,drums,Nirvana,5,1
+Dave Foster,1988,1989,drums,6,1
+Chad Channing,1988,1990,drums,Nirvana,7,1
+Dan Peters,1990,1991,drums,Nirvana,8,1
+Jason Everman,1989,1990,guitar,Nirvana,9,1
+Olivia Newton-John,1963,2017,lvoc,Olivia Newton-John,0,1
+Paul McCartney,1957,2017,Paul McCartney,0,1
+Phil Collins,1968,2011,lvoc,Phil Collins,0,1
+Phil Collins,2015,2017,lvoc,Phil Collins,0,2
+Prince,1976,2016,lvoc,Prince,0,1
+Reba McEntire,1975,2017,lvoc,Reba McEntire,0,1
+Rihanna,2003,2017,lvoc,Rihanna,0,1
+Robbie Williams,1990,2017,lvoc,Robbie Williams,0,1
+Rod Stewart,1961,2017,lvoc,Rod Stewart,0,1
+Shania Twain,1983,2017,lvoc,Shania Twain,0,1
+Stevie Wonder,1961,2017,lvoc,Stevie Wonder,0,1
+Taylor Swift,2004,2017,lvoc,Taylor Swift,0,1
+Will.i.am,1995,2017,piano,The Black Eyed Peas,0,1
+Will.i.am,1995,2017,voc,The Black Eyed Peas,0,2
+Apl.de.ap,1995,2017,drums,The Black Eyed Peas,1,1
+Apl.de.ap,1995,2017,voc,The Black Eyed Peas,1,2
+Taboo,1995,2017,lvoc,The Black Eyed Peas,2,1
+Fergie,2002,2017,lvoc,The Black Eyed Peas,3,1
+Dante Santiago,1995,1996,lvoc,The Black Eyed Peas,4,1
+Kim Hill,1995,2000,lvoc,The Black Eyed Peas,5,1
+Sierra Swan,1998,2000,lvoc,The Black Eyed Peas,6,1
+Jim Morrison,1965,1971,lvoc,The Doors,0,1
+Robby Krieger,1965,2017,guitar,The Doors,1,1
+Robby Krieger,1971,2017,voc,The Doors,1,1
+John Densmore,1965,2017,drums,The Doors,2,1
+Ray Manzarek,1965,2017,key,The Doors,3,1
+Ray Manzarek,1971,2017,voc,The Doors,3,2
+Brian Wilson,1961,1973,bass,The Beach Boys,0,1
+Brian Wilson,1961,1973,voc,The Beach Boys,0,2
+Brian Wilson,1973,1996,bass,The Beach Boys,0,3
+Brian Wilson,1973,1996,voc,The Beach Boys,0,4
+Brian Wilson,2012,2017,bass,The Beach Boys,0,5
+Brian Wilson,2012,2017,voc,The Beach Boys,0,5
+Al Jardine,1961,1962,guitar,The Beach Boys,1,1
+Al Jardine,1961,1962,voc,The Beach Boys,1,2
+Al Jardine,1963,1998,guitar,The Beach Boys,1,3
+Al Jardine,1963,1998,voc,The Beach Boys,1,4
+Al Jardine,2012,2017,guitar,The Beach Boys,1,5
+Al Jardine,2012,2017,voc,The Beach Boys,1,5
+Mike Love,1961,2017,lvoc,The Beach Boys,2,1
+Bruce Johnston,1965,1972,key,The Beach Boys,3,1
+Bruce Johnston,1965,1972,voc,The Beach Boys,3,2
+Bruce Johnston,1979,2017,key,The Beach Boys,4,1
+Bruce Johnston,1979,2017,voc,The Beach Boys,4,2
+David Marks,1961,1963,guitar,The Beach Boys,5,1
+David Marks,1961,1963,voc,The Beach Boys,5,2
+David Marks,1997,1999,guitar,The Beach Boys,5,3
+David Marks,1997,1999,voc,The Beach Boys,5,4
+David Marks,2012,2017,guitar,The Beach Boys,5,5
+David Marks,2012,2017,voc,The Beach Boys,5,6
+Carl Wilson,1961,1981,guitar,The Beach Boys,6,1
+Carl Wilson,1961,1981,voc,The Beach Boys,6,2
+Carl Wilson,1982,1998,guitar,The Beach Boys,6,3
+Carl Wilson,1982,1998,voc,The Beach Boys,6,4
+Dennis Wilson,1961,1983,drums,The Beach Boys,7,1
+Dennis Wilson,1961,1983,voc,The Beach Boys,7,2
+Blondie Chaplin,1972,1973,bass,The Beach Boys,8,1
+Blondie Chaplin,1972,1973,voc,The Beach Boys,8,2
+Ricky Fataar,1972,1974,drums,The Beach Boys,8,3
+Ricky Fataar,1972,1974,voc,The Beach Boys,8,4
+Axl Rose,1985,2017,lvoc,Guns N Roses,0,1
+Slash,1985,1997,guitar,Guns N Roses,1,1
+Slash,1985,1997,voc,Guns N Roses,1,2
+Slash,2016,2017,guitar,Guns N Roses,1,3
+Slash,2016,2017,voc,Guns N Roses,1,3
+Duff McKagan,1985,1997,bass,Guns N Roses,2,1
+Duff McKagan,1985,1997,voc,Guns N Roses,2,2
+Duff McKagan,2016,2017,bass,Guns N Roses,2,3
+Duff McKagan,2016,2017,voc,Guns N Roses,2,4
+Dizzy Reed,1990,2017,key,Guns N Roses,3,1
+Dizzy Reed,1990,2017,voc,Guns N Roses,3,2
+Richard Fortus,2002,2017,guitar,Guns N Roses,4,1
+Richard Fortus,2002,2017,voc,Guns N Roses,4,2
+Frank Ferrer,2006,2017,drums,Guns N Roses,5,1
+Melissa Reese,2016,2017,key,Guns N Roses,6,1
+Melissa Reese,2016,2017,voc,Guns N Roses,6,2
+Izzy Stradlin,1985,1991,guitar,Guns N Roses,7,1
+Izzy Stradlin,1985,1991,voc,Guns N Roses,7,2
+Tracii Guns,1985,1986,guitar,Guns N Roses,8,1
+Tracii Guns,1985,1986,drums,Guns N Roses,8,1
+Steven Adler,1985,1990,drums,Guns N Roses,9,1
+Steven Adler,1985,1990,voc,Guns N Roses,9,2
+Matt Sorum,1990,1997,drums,Guns N Roses,10,1
+Matt Sorum,1990,1997,drums,Guns N Roses,10,1
+Matt Sorum,1990,1997,voc,Guns N Roses,10,2
+Gilby Clarke,1991,1994,guitar,Guns N Roses,11,1
+Gilby Clarke,1991,1994,voc,Guns N Roses,11,2
+Paul Tobias,1994,2002,guitar,Guns N Roses,12,1
+Paul Tobias,1994,2002,piano2,Guns N Roses,12,2
+Robin Finck,1997,1999,guitars,Guns N Roses,13,1
+Robin Finck,1997,1999,key,Guns N Roses,13,2
+Robin Finck,2000,2008,guitar,Guns N Roses,13,3
+Robin Finck,2000,2008,voc,Guns N Roses,13,4
+Josh Freese,1997,2000,drums,Guns N Roses,14,1
+Tommy Stinson,1998,2016,bass,Guns N Roses,15,1
+Tommy Stinson,1998,2016,voc,Guns N Roses,15,2
+Chris Pitman,1998,2016,key,Guns N Roses,16,1
+Chris Pitman,1998,2016,voc,Guns N Roses,16,2
+Buckethead,2000,2004,guitars,Guns N Roses,17,1
+Bryan Mantia,2000,2006,drums,Guns N Roses,18,1
+Ron Thal,2006,2014,guitar,Guns N Roses,19,1
+DJ Ashba,2009,2015,guitar,Guns N Roses,20,1
+Tina Turner,1958,2013,lvoc,Tina Turner,0,1
+Tom Petty,1969,2017,guitar,Tom Petty,0,1
+Tom Petty,1969,2017,voc,Tom Petty,0,2
+Usher,1991,2017,lvoc,Usher,0,1
+David Lee Roth,1974,1985,lvoc,Van Halen,0,1
+David Lee Roth,1996,1997,lvoc,Van Halen,0,2
+David Lee Roth,2007,2017,lvoc,Van Halen,0,3
+Sammy Hagar,1985,1996,guitar,Van Halen,1,1
+Sammy Hagar,1985,1996,voc,Van Halen,1,2
+Sammy Hagar,2003,2005,guitar,Van Halen,1,3
+Sammy Hagar,2003,2005,voc,Van Halen,1,4
+Gary Cherone,1996,1999,lvoc,Van Halen,2,1
+Eddie Van Halen,1972,1974,guitar,Van Halen,3,1
+Eddie Van Halen,1972,1974,voc,Van Halen,3,2
+Eddie Van Halen,1974,2017,voc,Van Halen,3,3
+Mark Stone,1972,1974,bass,Van Halen,4,1
+Mark Stone,1972,1974,voc,Van Halen,4,2
+Michael Anthony,1974,2006,bass,Van Halen,5,1
+Michael Anthony,1974,2006,voc,Van Halen,5,2
+Wolfgang Van Halen,2006,2017,bass,Van Halen,6,1
+Wolfgang Van Halen,2006,2017,voc,Van Halen,6,2
+Alex Van Halen,1972,2017,drums,Van Halen,7,1
+Whitney Houston,1977,2012,lvoc,Whitney Houston,0,1
+Mick Fleetwood,1967,1995,drums,Fleetwood Mac,0,1
+Mick Fleetwood,1997,2017,drums,Fleetwood Mac,0,2
+John McVie,1967,1995,bass,Fleetwood Mac,1,1
+John McVie,1997,2017,bass,Fleetwood Mac,1,2
+Christine McVie,1970,1995,key,Fleetwood Mac,2,1
+Christine McVie,1970,1995,voc,Fleetwood Mac,2,2
+Christine McVie,1997,1998,key,Fleetwood Mac,2,3
+Christine McVie,1997,1998,voc,Fleetwood Mac,2,4
+Christine McVie,2014,2017,key,Fleetwood Mac,2,5
+Christine McVie,2014,2017,voc,Fleetwood Mac,2,6
+Lindsey Buckingham,1974,1987,guitar,Fleetwood Mac,3,1
+Lindsey Buckingham,1974,1987,voc,Fleetwood Mac,3,2
+Lindsey Buckingham,1993,1994,guitar,Fleetwood Mac,3,3
+Lindsey Buckingham,1993,1994,voc,Fleetwood Mac,3,4
+Lindsey Buckingham,1997,2017,guitar,Fleetwood Mac,3,5
+Lindsey Buckingham,1997,2017,voc,Fleetwood Mac,3,6
+Stevie Nicks,1974,1991,lvoc,Fleetwood Mac,4,1
+Stevie Nicks,1993,1994,lvoc,Fleetwood Mac,4,2
+Stevie Nicks,1997,2017,lvoc,Fleetwood Mac,4,3
+Peter Green,1967,1970,guitar,Fleetwood Mac,5,1
+Peter Green,1967,1970,voc,Fleetwood Mac,5,2
+Peter Green,1971,1972,guitar,Fleetwood Mac,5,3
+Peter Green,1971,1972,voc,Fleetwood Mac,5,4
+Jeremy Spencer,1967,1971,guitar,Fleetwood Mac,6,1
+Jeremy Spencer,1967,1971,voc,Fleetwood Mac,6,2
+Bob Brunning,1967,2011,bass,Fleetwood Mac,7,1
+Danny Kirwan,1968,1972,guitar,Fleetwood Mac,8,1
+Danny Kirwan,1968,1972,voc,Fleetwood Mac,8,2
+Bob Welch,1971,1974,guitar,Fleetwood Mac,9,1
+Bob Welch,1971,1974,voc,Fleetwood Mac,9,2
+Bob Weston,1972,1973,guitar,Fleetwood Mac,10,1
+Dave Walker,1972,1973,harmonica,Fleetwood Mac,11,1
+Dave Walker,1972,1973,voc,Fleetwood Mac,11,2
+Billy Burnette,1987,1993,guitar,Fleetwood Mac,12,1
+Billy Burnette,1987,1993,voc,Fleetwood Mac,12,2
+Billy Burnette,1994,1995,guitar,Fleetwood Mac,12,3
+Billy Burnette,1994,1995,voc,Fleetwood Mac,12,4
+Rick Vito,1987,1991,guitar,Fleetwood Mac,13,1
+Rick Vito,1987,1991,voc,Fleetwood Mac,13,2
+Bekka Bramlett,1993,1995,lvoc,Fleetwood Mac,14,1
+Dave Mason,1993,1995,guitar,Fleetwood Mac,15,1
+Dave Mason,1993,1995,voc,Fleetwood Mac,15,2
+Sting,1977,1986,bass,The Police,0,1
+Sting,2007,2008,bass,The Police,0,2
+Sting,2003,2004,bass,The Police,0,3
+Sting,1977,1986,voc,The Police,0,4
+Sting,2007,2008,voc,The Police,0,5
+Sting,2003,2004,voc,The Police,0,6
+Andy Summers,1977,1986,guitar,The Police,1,1
+Andy Summers,1977,1986,voc,The Police,1,2
+Andy Summers,2003,2004,guitar,The Police,1,3
+Andy Summers,2003,2004,voc,The Police,1,4
+Andy Summers,2007,2008,guitar,The Police,1,5
+Andy Summers,2007,2008,voc,The Police,1,6
+Henry Padovani,1977,1978,guitar,The Police,2,1
+Stewart Copeland,1977,1986,drums & key,The Police,3,1
+Stewart Copeland,1977,1986,voc,The Police,3,2
+Stewart Copeland,2003,2004,drums & key,The Police,3,3
+Stewart Copeland,2003,2004,voc,The Police,3,4
+Stewart Copeland,2007,2008,drums & key,The Police,3,5
+Stewart Copeland,2007,2008,voc,The Police,3,6
+Neal Schon,1973,2017,guitar,Journey,0,1
+Ross Valory,1973,1985,bass,Journey,1,1
+Ross Valory,1995,2017,bass,Journey,1,2
+Steve Smith,1978,1985,drums,Journey,2,1
+Steve Smith,1995,1998,drums,Journey,2,2
+Steve Smith,2015,2017,drums,Journey,2,3
+Jonathan Cain,1980,2017,key,Journey,3,1
+Arnel Pineda,2007,2017,lvoc,Journey,4,1
+Gregg Rolie,1973,1980,key,Journey,5,1
+Gregg Rolie,1973,1980,voc,Journey,5,2
+George Tickner,1973,1975,guitar,Journey,6,1
+Aynsley Dunbar,1974,1978,drums,Journey,7,1
+Robert Fleischman,1977,1978,lvoc,Journey,8,1
+Steve Perry,1977,1998,lvoc,Journey,9,1
+Randy Jackson,1986,1987,bass,Journey,10,1
+Mike Baird,1986,1987,drums,Journey,11,1
+Steve Augeri,1998,2006,lvoc,Journey,12,1
+Jeff Scott Soto,2006,2007,lvoc,Journey,13,1
+Deen Castronovo,1998,2015,drums,Journey,14,1
+Roger Daltrey,1964,2017,guitar,The Who,0,1
+Roger Daltrey,1964,2017,voc,The Who,0,2
+Pete Townshend,1964,2017,guitar,The Who,1,1
+Pete Townshend,1964,2017,voc,The Who,1,2
+John Entwistle,1964,2002,bass,The Who,2,1
+John Entwistle,1964,2002,voc,The Who,2,2
+Doug Sandom,1964,1965,drums,The Who,3,1
+Keith Moon,1964,1978,drums,The Who,4,1
+Keith Moon,1964,1978,voc,The Who,4,2
+Kenney Jones,1978,1988,drums,The Who,5,1
+Mick Jones,1976,2017,guitar,Foreigner,0,1
+Mick Jones,1976,2017,voc,Foreigner,0,2
+Thom Gimbel,1992,1993,guitar & key & sax,Foreigner,1,1
+Thom Gimbel,1992,1993,voc,Foreigner,1,2
+Thom Gimbel,1995,2017,guitar & key & sax,Foreigner,1,3
+Thom Gimbel,1995,2017,voc,Foreigner,1,4
+Jeff Pilson,2004,2017,bass,Foreigner,2,1
+Jeff Pilson,2004,2017,voc,Foreigner,2,2
+Kelly Hansen,2005,2017,percussion,Foreigner,3,1
+Kelly Hansen,2005,2017,voc,Foreigner,3,2
+Michael Bluestein,2008,2017,key,Foreigner,4,1
+Michael Bluestein,2008,2017,voc,Foreigner,4,2
+Chris Frazier,2012,2017,drums,Foreigner,5,1
+Bruce Watson,2011,2017,guitar,Foreigner,6,1
+Dennis Elliot,1976,1992,drums,Foreigner,7,1
+Dennis Elliot,1976,1992,voc,Foreigner,7,2
+Lou Gramm,1976,1990,percussion,Foreigner,8,1
+Lou Gramm,1976,1990,voc,Foreigner,8,2
+Al Greenwood,1976,1980,key,Foreigner,9,1
+Ian McDonald,1976,1980,guitar & key,Foreigner,10,1
+Ian McDonald,1976,1980,voc,Foreigner,10,2
+Ed Gagliadi,1976,1979,bass,Foreigner,11,1
+Ed Gagliadi,1976,1979,voc,Foreigner,11,2
+Rick Wills,1979,1992,bass,Foreigner,12,1
+Rick Wills,1979,1992,voc,Foreigner,12,2
+Jack Allen Smith,1986,1987,drums,Foreigner,13,1
+Jack Allen Smith,1986,1987,voc,Foreigner,13,2
+Johnny Edwards,1990,1992,guitar,Foreigner,14,1
+Johnny Edwards,1990,1992,voc,Foreigner,14,2
+Jeff Jacobs,1991,2007,key,Foreigner,15,1
+Jeff Jacobs,1991,2007,voc,Foreigner,15,2
+Mark Schulman,1992,1995,drums,Foreigner,16,1
+Mark Schulman,1992,1995,voc,Foreigner,16,2
+Mark Schulman,2000,2002,drums,Foreigner,16,3
+Mark Schulman,2000,2002,voc,Foreigner,16,4
+Mark Schulman,2011,2012,drums,Foreigner,16,5
+Mark Schulman,2011,2012,voc,Foreigner,16,6
+Bruce Turgon,1992,1995,bass,Foreigner,17,1
+Bruce Turgon,1992,1995,voc,Foreigner,17,2
+Scott Gilman,1993,1995,guitar,Foreigner,18,1
+Scott Gilman,1993,1995,voc,Foreigner,18,2
+Ron Wikso,1995,1998,drums,Foreigner,19,1
+Brian Tichy,1998,2000,drums,Foreigner,20,1
+Brian Tichy,2008,2010,drums,Foreigner,20,2
+Brian Tichy,2011,2012,drums,Foreigner,20,3
+Brian Tichy,1998,2000,voc,Foreigner,20,4
+Brian Tichy,2008,2010,voc,Foreigner,20,5
+Brian Tichy,2011,2012,voc,Foreigner,20,6
+Denny Carmassi,2002,2003,drums,Foreigner,21,1
+Jason Bonham,2004,2008,drums,Foreigner,22,1
+Jason Bonham,2004,2008,voc,Foreigner,22,2
+Chas West,2004,2005,guitar,Foreigner,23,1
+Chas West,2004,2005,voc,Foreigner,23,2
+Paul Mirkovich,2007,2008,key,Foreigner,24,1
+Brian Head,2008,2009,drums,Foreigner,25,1
+Jason Sutter,2010,2011,drums,Foreigner,26,1
