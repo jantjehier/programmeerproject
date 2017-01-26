@@ -56,3 +56,7 @@ I changed the pie chart text to percentages and deleted the old visualisations w
 # day 13
 
 Today i added the search funtion. I also added the text that show which band you clicked on or searched for.
+
+# day 14
+
+I added the data to the visualisation. Because some artists are working alone and others (santana) have had 67 artists i had to add a scroll function. The scrollbar has to be down in when you load the visualisation because else you don't see the visualisation (except for santana and earth wind and fire) I also added some instrument collors and tried to add a legend. I also added some text and repositioned the visualisations. 
