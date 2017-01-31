@@ -233,51 +233,34 @@ window.onload = function(){
 
     // defining the artists in a band
     var lanes = []
+    var Allitems = []
+    var item = {}
+    var highest = 0;
+    var lowest = 3000;
+
     for (var i = 0; i < data.length; i++)
     {
       if (BandId == data[i].band)
       {
+        item[i] =
+        {
+          'lane': data[i].lanenr,
+          'id': data[i].id,
+          'start': data[i].start,
+          'end': data[i].end
+        }
+        Allitems.push(item[i]);
+        if (highest < data[i].end)
+        {
+          highest = data[i].end;
+        }
+        if (lowest > data[i].start)
+        {
+          lowest = data[i].start;
+        }
         if (data[i].number == 1)
         {
           lanes.push(data[i].lane);
-        }
-      }
-    }
-
-    // setting items in the right format
-    var Allitems = []
-    var item = {}
-    for (var j = 0; j < data.length;  j++)
-    {
-      if (BandId == data[j].band)
-      {
-        item[j] =
-        {
-          'lane': data[j].lanenr,
-          'id': data[j].id,
-          'start': data[j].start,
-          'end': data[j].end
-        }
-      Allitems.push(item[j]);
-      }
-    }
-
-    // finding the lowest and highest value in years
-    var height = [];
-    var heights = [];
-    var highest = 0;
-    var lowest = 3000;
-    for (var k = 0; k < data.length; k++)
-    {
-      if (BandId == data[k].band)
-      {
-        if (highest < data[k].end)
-        {
-          highest = data[k].end;
-        }
-        if (lowest > data[k].start)
-        {
-          lowest = data[k].start;
         }
       }
     }
@@ -418,10 +401,11 @@ window.onload = function(){
 
     // changing the data format
     var albumdata = {}
+    var restalbumdata;
     var albumsalespart = 0;
-    var restalbums;
-    var albumdata2;
+    var restalbumsales;
     var data2 = []
+
     // changing the format to the needed format for pie charts.
     for (var l = 0; l < data.length; l++)
     {
@@ -436,25 +420,25 @@ window.onload = function(){
         Totalalbums = Totalalbums - 1
         data2.push(albumdata[l])
         albumsalespart = albumsalespart + data[l].sales;
-        restalbums = Totalsold - albumsalespart;
-        albumdata2 =
+        restalbumsales = Totalsold - albumsalespart;
+        restalbumdata =
         {
           "label": Totalalbums + " studio-albums with less than 20 million sales",
-          "value": restalbums
+          "value": restalbumsales
         }
       }
     }
 
-    if (albumdata2 == undefined)
+    if (restalbumdata == undefined)
     {
-      albumdata2 =
+      restalbumdata =
       {
         "label": Totalalbums + " studio-albums with less than 20 million sales",
         "value": Totalsold
       }
     }
 
-    data2.push(albumdata2)
+    data2.push(restalbumdata)
     data = data2;
 
     // adding the tooltip text
