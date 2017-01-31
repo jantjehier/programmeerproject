@@ -7,18 +7,17 @@
 I have chosen to make a bar chart.
 In this bar chart the size of the bars show how much albums are sold. A scale from 75 million to 600 million.
 The red and green colors show if a band is still active. If the color is green the band is still active. 
-If the color is red the band isn't active anymore. In the dropdown you can sellect if you only want to see the active or inactive bands or both.
+If the color is red the band isn't active anymore. There is a checkbox that will sort the bars from the barchart.
 When you hover over the bars the values will show.
 #### timeline:
 There will also be a timeline that is linked to the barchart. when you click on a bar the band shows in the timeline.
 In the timeline you can see when a band was active and which musicians played in the band at which moment. Optional there will be lines
 that show when the albums where made. This makes it easy to see which musician made which album. The search funtion will work for the timeline. When you hover over a line you can see which instrument was played. On the right there is also a legend that shows the instruments.
 #### piechart:
-The piechart is to show if the bands have changed since the start of the band. The percentage in green are the members that are left of the original band.
-The percentage of the beginning band that did leave the band will be shown in red. The piechart will also be linked to the bar chart.
+In the piechart you can see if a band had a lot of very succelfull albums or just sold a lot of different albums. For all the albums that where sold more than 20 million times you can see how much percent it was of the total albums sales. The other part of the pie chart shows on hover how much albums and how much sales. The albums are the studio albums, live albums and compilation albums because that albums are also counted in the list with most sold albums.
 
 ### The Minimum viable product
-At least I want to make the time line linked to the bar and the pie chart. I also need the search function and drop down as extra features.
+At least I want to make the time line linked to the bar and the pie chart. I also need the search function and  as extra features.
 The optional part is the lines for the albums. I can make tables of the albums that where made, and make eventual the album versions in a table. 
 
 ### Story
@@ -41,4 +40,4 @@ The technical problems that could arise during the development are the linking o
 the piechart and the timeline will be linked to the bar chart. 
 
 ### extra features
-the extra features are the dropdown menu for the bar chart and the search function for the timeline and bar chart.
+the extra features are the checkbox for the bar chart and the search function for the timeline and bar chart.
