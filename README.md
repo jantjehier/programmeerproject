@@ -1,6 +1,8 @@
 # programmeerproject
 
 ![GitHub excample](/doc/dataproject3.PNG)
+
+#### the design
 The design changed a little. The pie chart will show different data. The drop down menu is a checkbox and the red in the barchart is changed to gray. Also the legends are in different places.
 
 ### visualisations
