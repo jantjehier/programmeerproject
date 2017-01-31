@@ -254,7 +254,7 @@ window.onload = function(){
         {
           highest = data[i].end;
         }
-        if (lowest > data[i].start)
+        else (lowest > data[i].start)
         {
           lowest = data[i].start;
         }
@@ -372,16 +372,7 @@ window.onload = function(){
         return 10;
       }
     })
-/*
-    .attr("height", function(d) {switch (d.id) {
-      case 'voc':
-      case 'flute2':
-      case 'key2':
-      case 'bass2':
-      case 'harmonica2':
-      case 'piano2':
-        return 4;
-      } return 10;})*/
+
     .on('mouseover', tip.show)
     .on('mouseout', tip.hide);
 
