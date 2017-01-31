@@ -14,6 +14,8 @@ De barchart is gelinkt aan de piechart en timeline. De barchart is te sorteren m
 
 # Uitdagingen
 
+Een van de uitdagingen was het verzinnen van een goed idee voor de pie chart. Nu is in de pie chart te zien hoeveel procent een album is van de totale album verkopen. 
+Het dropdown menu uit het oorspronkelijke ontwerp voegde weinig toe omdat je een deel van dezelfde data inlaad. Daarom heb ik gekozen voor een sort functie. Toen de bar chart alleen op alfabet gesorteerd was, was moeilijk te zien welke artiesten bijvoorbeeld evenveel albums hebben verkocht. Nu is dat beter zichtbaar.
 
 
 ## Clearly describe the technical design: how is the functionality implemented in your code? This should be like your DESIGN.md but updated to reflect the final application. First, give a high level overview, which helps us navigate and understand the total of your code (which components are there?). Second, go into detail, and describe the modules/classes and how they relate.
@@ -21,6 +23,9 @@ De barchart is gelinkt aan de piechart en timeline. De barchart is te sorteren m
 ## Clearly describe challenges that your have met during development. Document all important changes that your have made with regard to your design document (from the PROCESS.md). Here, we can see how much you have learned in the past month.
 
 # Keuzes
+
+Een pie chart met daarin het percentage van de orginele leden was dat lastig te begrijpen. Daarom heb ik de pie chart in week 3 aangepast. Hierdoor geeft de pie chart nuttige informatie weer die goed te begrijpen is.
+
 
 
 ## Defend your decisions by writing an argument of a most a single paragraph. Why was it good to do it different than you thought before? Are there trade-offs for your current solution? In an ideal world, given much more time, would you choose another solution?
