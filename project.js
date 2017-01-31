@@ -363,6 +363,16 @@ window.onload = function(){
     .attr("x", function(d) {return x(d.start);})
     .attr("y", function(d) {return y2(d.lane + .5) - 5;})
     .attr("width", function(d) {return ((x(d.end)) - (x(d.start)));})
+    .attr("height", function(d) {if (['voc','flute2','key2','bass2','harmonica2','piano2'].indexOf(d.id) >= 0)
+      {
+        return 4;
+      }
+      else
+      {
+        return 10;
+      }
+    })
+/*
     .attr("height", function(d) {switch (d.id) {
       case 'voc':
       case 'flute2':
@@ -371,7 +381,7 @@ window.onload = function(){
       case 'harmonica2':
       case 'piano2':
         return 4;
-      } return 10;})
+      } return 10;})*/
     .on('mouseover', tip.show)
     .on('mouseout', tip.hide);
 
@@ -394,7 +404,7 @@ window.onload = function(){
   var w = 330;
   var h = 330;
   var r = h/2;
-  
+
   var color = d3.scale.ordinal()
   .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
 
