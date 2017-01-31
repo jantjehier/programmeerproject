@@ -60,3 +60,11 @@ Today i added the search funtion. I also added the text that show which band you
 # day 14
 
 I added the data to the visualisation. Because some artists are working alone and others (santana) have had 67 artists i had to add a scroll function. The scrollbar has to be down in when you load the visualisation because else you don't see the visualisation (except for santana and earth wind and fire) I also added some instrument collors and tried to add a legend. I also added some text and repositioned the visualisations. 
+
+# day 15
+
+I added the legend to the visualisation. It shows up when the timeline function starts. I also added a code that scrolls down when you search or click on a bar so you can see something happens. I changed the red color from the barchart to gray because the difference between red and green is hard to see for colorblind people. The titles for the pie and barchart where also added.
+
+# day 16
+
+I cleanded up my code. The parts that where not needed i deleted. I also learned to push code onto github. This makes it possible to use better code hub. i scored on 5 of the 10 points so i have to change some code. I also change the albums to compilation albums, live albums and studio albums instead of only studio albums. In the data with best sold albums are also compilation albums so just studio albums wasn't enough. 
