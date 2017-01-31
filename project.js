@@ -363,7 +363,15 @@ window.onload = function(){
     .attr("x", function(d) {return x(d.start);})
     .attr("y", function(d) {return y2(d.lane + .5) - 5;})
     .attr("width", function(d) {return ((x(d.end)) - (x(d.start)));})
-    .attr("height", function(d) {if(d.id == "voc"||d.id =="flute2" || d.id == "key2" || d.id == "bass2" || d.id == "harmonica2" || d.id == "piano2"){return 4}else{return 10}})
+    .attr("height", function(d) {switch (d.id) {
+      case 'voc':
+      case 'flute2':
+      case 'key2':
+      case 'bass2':
+      case 'harmonica2':
+      case 'piano2':
+        return 4;
+      } return 10;})
     .on('mouseover', tip.show)
     .on('mouseout', tip.hide);
 
@@ -386,6 +394,7 @@ window.onload = function(){
   var w = 330;
   var h = 330;
   var r = h/2;
+  
   var color = d3.scale.ordinal()
   .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
 
@@ -402,9 +411,11 @@ window.onload = function(){
     // changing the data format
     var albumdata = {}
     var restalbumdata;
+
     var albumsalespart = 0;
     var restalbumsales;
-    var data2 = []
+
+    var newdata = []
 
     // changing the format to the needed format for pie charts.
     for (var l = 0; l < data.length; l++)
@@ -418,7 +429,7 @@ window.onload = function(){
           "year": data[l].year
         }
         Totalalbums = Totalalbums - 1
-        data2.push(albumdata[l])
+        newdata.push(albumdata[l])
         albumsalespart = albumsalespart + data[l].sales;
         restalbumsales = Totalsold - albumsalespart;
         restalbumdata =
@@ -438,8 +449,8 @@ window.onload = function(){
       }
     }
 
-    data2.push(restalbumdata)
-    data = data2;
+    newdata.push(restalbumdata)
+    data = newdata;
 
     // adding the tooltip text
     var tip = d3.tip()
