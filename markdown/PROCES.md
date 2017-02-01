@@ -68,3 +68,12 @@ I added the legend to the visualisation. It shows up when the timeline function 
 # day 16
 
 I cleanded up my code. The parts that where not needed i deleted. I also learned to push code onto github. This makes it possible to use better code hub. i scored on 5 of the 10 points so i have to change some code. I also change the albums to compilation albums, live albums and studio albums instead of only studio albums. In the data with best sold albums are also compilation albums so just studio albums wasn't enough. 
+
+# day 17
+
+I tried to change code for a better score in better code hub. My code is better now but still scores 5 out of 10. I added the javascript to different files and pushed them on github. I added some more text to the visualisation.
+
+# day 18
+
+I made the REPORT.md and STANDUPS.md.
+
