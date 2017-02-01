@@ -1,5 +1,7 @@
 # programmeerproject
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/jantjehier/programmeerproject)](https://bettercodehub.com)
+
 ![GitHub excample](/doc/dataproject3.PNG)
 
 #### the design
@@ -44,3 +46,4 @@ the piechart and the timeline will be linked to the bar chart.
 
 ### extra features
 the extra features are the checkbox for the bar chart and the search function for the timeline and bar chart.
+
