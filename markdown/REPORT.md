@@ -1,7 +1,5 @@
 # Omschrijving
 
-## Start with a short description of your application (like in the README.md, but very short, including a single screen shot).
-
 ![GitHub excample](/doc/printscreen.PNG)
 ![GitHub excample](/doc/printscreen2.PNG)
 
