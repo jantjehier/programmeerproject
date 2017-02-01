@@ -15,24 +15,24 @@ De visualisatie geeft aan waarom bands en artiesten zoveel albums hebben verkoch
 
 # Technisch design
  
- ## Een kort overzicht
+## Een kort overzicht
  
- ### De staafdiagram
- De staafdiagram bestaat uit code voor het maken van de staafdiagram en code voor de checkbox met transitie.
+### De staafdiagram
+De staafdiagram bestaat uit code voor het maken van de staafdiagram en code voor de checkbox met transitie.
  
- ### De circeldiagram
- De circeldiagram bestaat uit code voor het verranderen van de titel, het verwijderen van de oude circeldiagram en het maken van de      circeldiagram.
+### De circeldiagram
+De circeldiagram bestaat uit code voor het verranderen van de titel, het verwijderen van de oude circeldiagram en het maken van de      circeldiagram.
  
- ### De tijdlijn
- De tijdlijncode bestaat uit code voor het verwijderen van de tijdlijncontainer, code voor het verranderen van de tijdlijn titel, code voor het omlaag scrollen in de tijdlijn scrollbalk en webpagina scrollbalk en code voor het maken van de tijdlijn.
+### De tijdlijn
+De tijdlijncode bestaat uit code voor het verwijderen van de tijdlijncontainer, code voor het verranderen van de tijdlijn titel, code voor het omlaag scrollen in de tijdlijn scrollbalk en webpagina scrollbalk en code voor het maken van de tijdlijn.
  
- ### De checkbox voor de sortfunctie
- Deze functie zit verwerkt in de staafdiagram functie.
+### De checkbox voor de sortfunctie
+Deze functie zit verwerkt in de staafdiagram functie.
  
- ### De zoekfunctie
- De zoekfunctie bestaat uit code voor het controleren van de ingegeven text en het starten van de tijdlijn en circeldiagram functie.
+### De zoekfunctie
+De zoekfunctie bestaat uit code voor het controleren van de ingegeven text en het starten van de tijdlijn en circeldiagram functie.
   
- ## Details
+## Details
 
 De barchart is gelinkt aan de piechart en timeline. De barchart is te sorteren met een sort functie. Deze verranderd de volgorde van de labels op de x as voor bar_yes en bar_no (actieve en niet actieve bands). En sorteerd de bars op de waarde. Als je klikt op een bar dan start de onclick functie. Deze start de timeline en piechart functie. De zoekfunctie gaat via aan andere functie. Deze zoekt uit of de band die je zoekt ook in de data staat. Als dat zo is dan worden de timeline en piechart functies gestart, anders krijg je een alert. Voor de timeline functie moet de data in een bepaald format staan. Dit gebeurt in het begin van de code. Ook word de oude timeline verwijderd. Voor de timeline moet worden aangegeven wanneer een line begint en wanneer hij stopt. Ook moet de text voor de lines worden toegevoegd. In de data staat al vast welke artiest in welke lijn van de timeline komt. Na de timeline functie is doorlopen word de pagina naar beneden gehaald zodat je kan zien dat de timeline is gemaakt. De timeline zit in een div die in een div zit. De eerste div zorgt ervoor dat je een scrolbalk hebt voor de tweede div. Zo is de visualisatie niet te groot voor bands als Santana met 67 artiesten. De piechart voor de piechart wordt de data in een ander format gezet. Ook word het percentage berekend. Een deel van de piechart geeft aan hoeveel procent van de totale albumverkopen een bepaald albums is. Voor het andere deel moet een nieuw bedrag berekend worden (totaal - albums). Ook moet berekend worden hoeveel albums er overblijven als je de albums die meer dan 20 miljoen keer verkocht zijn er af haalt. Deze worden weer laten zien in de tooltip. 
 
