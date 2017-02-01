@@ -2,7 +2,7 @@
 
 ## Week 1 Dag 1 - woensdag 11 januari
 
-![Selfie dag 1](doc/)
+![GitHub excample](/doc/standup2.jpg)
 
 **Aanwezig:** Isa Leijdekkers, ShanLi Nio, Lotte Slim, Eline Jacobse en Jan Maarten de Vries  
 
@@ -12,7 +12,7 @@ Vandaag hebben we onze eerste ideeën aan elkaar voorgelegd aan de hand van de g
 
 ## Week 1 Dag 2 - donderdag 12 januari 
 
-![Selfie dag 2](doc/)
+![GitHub excample](/doc/standup1.jpg)
 
 **Aanwezig:** Isa Leijdekkers, ShanLi Nio, Lotte Slim en Eline Jacobse.
 **Afwezig:** Jan Maarten de Vries  
@@ -24,7 +24,7 @@ Na elke update hebben we elkaar technische tips gegeven over verschillende onder
 
 ## Week 2 Dag 1 - maandag 16 januari 
 
-![Selfie dag 3](doc/)
+![GitHub excample](/doc/standup3.jpg)
 
 **Aanwezig:** Isa Leijdekkers, ShanLi Nio, Lotte Slim, Eline Jacobse en Jan Maarten de Vries
 
@@ -35,7 +35,7 @@ Vandaag heeft iedereen een plan gemaakt wat hij/zij deze week af wil hebben, wel
 
 ## Week 2 Dag 2 - dinsdag 17 januari 
 
-![Selfie dag 4](doc/)
+![GitHub excample](/doc/standup4.jpg)
 
 **Aanwezig:** Isa Leijdekkers, ShanLi Nio, Lotte Slim, Eline Jacobse 
 **Afwezig** Jan Maarten de Vries
@@ -45,7 +45,7 @@ Isa heeft een bar chart gemaakt, alleen de tekst wordt nog niet helemaal mooi we
 
 ## Week 2 Dag 3 - woensdag 18 januari
 
-![Selfie dag 5](doc/)
+![GitHub excample](/doc/standup5.jpg)
 
 **Aanwezig:** Isa Leijdekkers, ShanLi Nio, Lotte Slim, Eline Jacobse 
 **Afwezig** Jan Maarten de Vries
@@ -54,7 +54,7 @@ We hebben gewerkt aan onze styleguide.
 
 ## Week 2 Dag 4 - donderdag 19 januari
 
-![Selfie dag 6](doc/)
+![GitHub excample](/doc/standup6.jpg)
 
 **Aanwezig:** Isa Leijdekkers, ShanLi Nio, Lotte Slim, Eline Jacobse, Jan Maarten de Vries 
 
@@ -63,7 +63,7 @@ We hebben gewerkt aan onze styleguide.
 
 ## Week 3 Dag 1 - maandag 23 januari 
 
-![Selfie dag 7]()
+![GitHub excample](/doc/standup7.jpg)
 
 **Aanwezig:** ShanLi Nio, Lotte Slim, Jan Maarten de Vries, Eline Jacobse 
 **Afwezig** Isa Leijdekkers
@@ -72,7 +72,7 @@ We hebben onze plannen voor deze week besproken. Lotte wil vandaag de interactiv
 
 ## Week 3 Dag 2 - dinsdag 24 januari 
 
-![Selfie dag 8]()
+![GitHub excample](/doc/standup8.jpg)
 
 **Aanwezig:** ShanLi Nio, Lotte Slim, Jan Maarten de Vries, Eline Jacobse, Isa Leijdekkers
 
@@ -81,7 +81,7 @@ Vandaag hebben we besproken hoe ver we zijn gekomen met de plannen die we gister
 
 ## Week 3 Dag 3 - dinsdag 25 januari 
 
-![Selfie dag 9]()
+![GitHub excample](/doc/standup9.jpg)
 
 **Aanwezig:** Lotte Slim, Eline Jacobse, Isa Leijdekkers 
 
@@ -91,14 +91,14 @@ We hebben elkaar geholpen met de structuur van onze repository. De vraag hierbij
 
 ## Week 3 Dag 4 - donderdag 26 januari 
 
-![Selfie dag 10]()
+![GitHub excample](/doc/standup10.jpg)
 
 **Aanwezig:** Lotte Slim, Eline Jacobse, Isa Leijdekkers, ShanLi Nio, , Jan Maarten de Vries
 
 Vandaag hebben we onze projecten tot nu toe aan elkaar laten zien en we hebben verteld wat we nog moeten doen. Eline is bezig met haar laatste visualisatie, een bar chart. Deze moet nog samen met het linken van de visualisaties afgemaakt worden. Lotte heeft bijna alle interactiviteit af. Alleen het springen naar het juiste land in de tabel werkt nog niet. Shan Li werkt nog aan de tooltip van haar eerste visualisatie. De map en barchart zijn zo goed als klaar, er zitten alleen nog hele kleine bugs in. De pie chart van Jan Maarten klopt nog niet helemaal, dus daar gaat hij nog aan werken. Ook wil hij nog informatie toevoegen over wanneer de albums zijn gemaakt. Isa moet de bubble chart nog afmaken en de zoekfunctie optimaliseren. Ook moeten de visualisaties nog gelinkt worden.
 ## Week 4 Dag 1 - maandag 30 januari
 
-![Selfie dag 11]()
+![GitHub excample](/doc/standup11.jpg)
 
 **Aanwezig:** Lotte Slim, Eline Jacobse, Isa Leijdekkers, ShanLi Nio, Jan Maarten de Vries
 
@@ -113,7 +113,7 @@ Jan Maarten: data aanpassen, en een rare bug fixen. Lijkt ons ook wel realistisc
 **Aanwezig:** Lotte Slim, Eline Jacobse, Isa Leijdekkers, ShanLi Nio**
 **Afwezig:** Jan Maarten de Vries
 
-![Selfie dag 12]()
+![GitHub excample](/doc/standup12.jpg)
 
 Lotte heeft alle fouten uit haar data gehaald en gewerkt aan de verschillende buttons. Vandaag gaat ze de assen van de grafieken fixen en de bronnen overal bij zetten. ShanLi heeft de bug uit haar kaart gehaald on hover, ze heeft gewerkt aan de layout (de informatiebox). Eline heeft aan de layout van haar website gewerkt en een aantal bugs verbeterd. Isa heeft tekst op haar website gezet en een legenda toegevoegd aan haar bubble chart. 
 
@@ -121,7 +121,7 @@ Lotte heeft alle fouten uit haar data gehaald en gewerkt aan de verschillende bu
 
 **Aanwezig:** Lotte Slim, Eline Jacobse, Isa Leijdekkers, ShanLi Nio en Jan Maarten de Vries**
 
-![Selfie dag 13]()
+![GitHub excample](/doc/standup13.jpg)
 
 Iedereen is klaar met zijn of haar pagina. We hebben onze code aan elkaar laten zien, om elkaar te helpen met het verbeteren van de style hiervan. We hebben de code één voor één besproken met de gemaakte styleguide ernaast. Iedereen gaat vandaag verder met het mooi maken van de files en het schrijven van het verslag.
 
