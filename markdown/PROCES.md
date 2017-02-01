@@ -71,9 +71,9 @@ I cleanded up my code. The parts that where not needed i deleted. I also learned
 
 # day 17
 
-I tried to change code for a better score in better code hub. My code is better now but still scores 5 out of 10. I added the javascript to different files and pushed them on github. I added some more text to the visualisation.
+I tried to change code for a better score in better code hub. My code is better now but still scores 5 out of 10. I changed my README.md and fixed the problems i had with github.
 
 # day 18
 
-I made the REPORT.md and STANDUPS.md.
+I made the REPORT.md and STANDUPS.md. I added the javascript to different files and pushed them on github. I added some more text to the visualisation.
 
