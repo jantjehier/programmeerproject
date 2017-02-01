@@ -1,0 +1,695 @@
+[
+        {
+            "sales": "200",
+            "active": "no",
+            "period": "1972-1982",
+            "artist": "ABBA",
+	    "albums": "17"
+        },
+        {
+            "sales": "200",
+            "active": "yes",
+            "period": "1973-present",
+            "artist": "ACDC",
+	    "albums": "21"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "2006-present",
+            "artist": "Adele",
+	    "albums": "3"
+        },
+        {
+            "sales": "150",
+            "active": "yes",
+            "period": "1970-present",
+            "artist": "Aerosmith",
+	    "albums": "32"
+        },
+        {
+            "sales": "75",
+            "active": "yes",
+            "period": "1972-present",
+            "artist": "Alabama",
+	    "albums": "33"
+        },
+        {
+            "sales": "75",
+            "active": "yes",
+            "period": "1956-present",
+            "artist": "Aretha Franklin",
+	    "albums": "92"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1993-present",
+            "artist": "Backstreet Boys",
+	    "albums": "12"
+        },
+        {
+            "sales": "145",
+            "active": "yes",
+            "period": "1960-present",
+            "artist": "Barbra Streisand",
+	    "albums": "54"
+        },
+        {
+            "sales": "80",
+            "active": "yes",
+            "period": "1973-present",
+            "artist": "Barry Manilow",
+	    "albums": "48"
+        },
+        {
+            "sales": "100",
+            "active": "no",
+            "period": "1972-2003",
+            "artist": "Barry White",
+	    "albums": "35"
+        },
+        {
+            "sales": "120",
+            "active": "no",
+            "period": "1963-2003 & 2009-2012",
+            "artist": "Bee Gees",
+	    "albums": "39"
+        },
+        {
+            "sales": "85",
+            "active": "yes",
+            "period": "1997-present",
+            "artist": "Beyonce",
+	    "albums": "13"
+        },
+        {
+            "sales": "150",
+            "active": "yes",
+            "period": "1964-present",
+            "artist": "Billy Joel",
+	    "albums": "33"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1959-present",
+            "artist": "Bob Dylan",
+	    "albums": "79"
+        },
+        {
+            "sales": "75",
+            "active": "no",
+            "period": "1962-1981",
+            "artist": "Bob Marley",
+	    "albums": "56"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1983-present",
+            "artist": "Bon Jovi",
+	    "albums": "22"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1998-present",
+            "artist": "Britney Spears",
+	    "albums": "13"
+        },
+        {
+            "sales": "120",
+            "active": "yes",
+            "period": "1972-present",
+            "artist": "Bruce Springsteen",
+	    "albums": "42"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "2004-present",
+            "artist": "Bruno Mars",
+	    "albums": "3"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1979-present",
+            "artist": "Bryan Adams",
+	    "albums": "23"
+        },
+        {
+            "sales": "86",
+            "active": "yes",
+            "period": "1988-present",
+            "artist": "Bz",
+	    "albums": "18"
+        },
+        {
+            "sales": "200",
+            "active": "yes",
+            "period": "1981-present",
+            "artist": "Celine Dion",
+	    "albums": "50"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1964-present",
+            "artist": "Cher",
+	    "albums": "37"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1967-present",
+            "artist": "Chicago",
+	    "albums": "37"
+        },
+        {
+            "sales": "80",
+            "active": "yes",
+            "period": "1996-present",
+            "artist": "Coldplay",
+	    "albums": "17"
+        },
+        {
+            "sales": "100",
+            "active": "no",
+            "period": "1962-2016",
+            "artist": "David Bowie",
+	    "albums": "59" 
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1977-present",
+            "artist": "Def Leppard",
+	    "albums": "17"
+        },
+        {
+            "sales": "100",
+            "active": "no",
+            "period": "1977-1995",
+            "artist": "Dire Straits",
+	    "albums": "12"
+        },
+        {
+            "sales": "100",
+            "active": "no",
+            "period": "1968-2012",
+            "artist": "Donna Summer",
+	    "albums": "51"
+        },
+        {
+            "sales": "150",
+            "active": "no",
+            "period": "1971-1980 & 1994-2016",
+            "artist": "Eagles",
+	    "albums": "19"
+        },
+        {
+            "sales": "90",
+            "active": "yes",
+            "period": "1969-present",
+            "artist": "Earth Wind & Fire",
+	    "albums": "42"
+        },
+        {
+            "sales": "300",
+            "active": "yes",
+            "period": "1964-present",
+            "artist": "Elton John",
+	    "albums": "53"
+        },
+        {
+            "sales": "600",
+            "active": "no",
+            "period": "1954-1977",
+            "artist": "Elvis Presley",
+	    "albums": "31"
+        },
+        {
+            "sales": "155",
+            "active": "yes",
+            "period": "1996-present",
+            "artist": "Eminem",
+	    "albums": "21"
+        },
+        {
+            "sales": "75",
+            "active": "yes",
+            "period": "1982-present",
+            "artist": "Enya",
+	    "albums": "12"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1967-present",
+            "artist": "Fleetwood Mac",
+	    "albums": "48"
+        },
+        {
+            "sales": "80",
+            "active": "yes",
+            "period": "2007-present",
+            "artist": "Flo Rida",
+	    "albums": "4"
+        },
+        {
+            "sales": "80",
+            "active": "yes",
+            "period": "1976-present",
+            "artist": "Foreigner",
+	    "albums": "27"
+        },
+        {
+            "sales": "150",
+            "active": "no",
+            "period": "1935-1995",
+            "artist": "Frank Sinatra",
+	    "albums": "68"
+        },
+        {
+            "sales": "160",
+            "active": "yes",
+            "period": "1989-present",
+            "artist": "Garth Brooks",
+	    "albums": "15"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1967-1999 & 2006-present",
+            "artist": "Genesis",
+	    "albums": "23"
+        },
+        {
+            "sales": "80",
+            "active": "no",
+            "period": "1981-2016",
+            "artist": "George Michael",
+	    "albums": "7"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1981-present",
+            "artist": "George Strait",
+	    "albums": "43"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1985-present",
+            "artist": "Guns N Roses",
+	    "albums": "9"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1968-present",
+            "artist": "James Taylor",
+	    "albums": "27"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1982-present",
+            "artist": "Janet Jackson",
+	    "albums": "14"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1996-present",
+            "artist": "Jay Z",
+	    "albums": "22"
+        },
+        {
+            "sales": "90",
+            "active": "no",
+            "period": "1954-2003",
+            "artist": "Johnny Cash",
+	    "albums": "165"
+        },
+        {
+            "sales": "80",
+            "active": "yes",
+            "period": "1957-present",
+            "artist": "Johnny Hallyday",
+	    "albums": "80"
+        },
+        {
+            "sales": "75",
+            "active": "yes",
+            "period": "1973-present",
+            "artist": "Journey",
+	    "albums": "25"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1968-present",
+            "artist": "Julio Iglesias",
+	    "albums": "81"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "2008-present",
+            "artist": "Justin Bieber",
+	    "albums": "9"
+        },
+        {
+            "sales": "121",
+            "active": "yes",
+            "period": "1996-present",
+            "artist": "Kanye West",
+	    "albums": "12"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "2001-present",
+            "artist": "Katy Perry",
+	    "albums": "5"
+        },
+        {
+            "sales": "75",
+            "active": "yes",
+            "period": "1982-present",
+            "artist": "Kenny G",
+	    "albums": "36"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1958-present",
+            "artist": "Kenny Rogers",
+	    "albums": "78"
+        },
+        {
+            "sales": "75",
+            "active": "yes",
+            "period": "1972-present",
+            "artist": "Kiss",
+	    "albums": "41"
+        },
+        {
+            "sales": "114",
+            "active": "yes",
+            "period": "2005-present",
+            "artist": "Lady Gaga",
+	    "albums": "5"
+        },
+        {
+            "sales": "300",
+            "active": "no",
+            "period": "1968-1980",
+            "artist": "Led Zeppelin",
+	    "albums": "22"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1996-present",
+            "artist": "Lil Wayne",
+	    "albums": "16"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1967-present",
+            "artist": "Linda Ronstadt",
+	    "albums": "40"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1968-present",
+            "artist": "Lionel Richie",
+	    "albums": "20"
+        },
+        {
+            "sales": "300",
+            "active": "yes",
+            "period": "1979-present",
+            "artist": "Madonna",
+	    "albums": "27"
+        },
+        {
+            "sales": "200",
+            "active": "yes",
+            "period": "1988-present",
+            "artist": "Mariah Carey",
+	    "albums": "16"
+        },
+        {
+            "sales": "80",
+            "active": "yes",
+            "period": "1968-present",
+            "artist": "Meat Loaf",
+	    "albums": "25"
+        },
+        {
+            "sales": "110",
+            "active": "yes",
+            "period": "1981-present",
+            "artist": "Metallica",
+	    "albums": "16"
+        },
+        {
+            "sales": "350",
+            "active": "no",
+            "period": "1964-2009",
+            "artist": "Michael Jackson",
+	    "albums": "58"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1966-present",
+            "artist": "Neil Diamond",
+	    "albums": "82"
+        },
+        {
+            "sales": "75",
+            "active": "no",
+            "period": "1987-1994",
+            "artist": "Nirvana",
+	    "albums": "10"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1966-present",
+            "artist": "Olivia Newton-John",
+	    "albums": "51"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1960-present",
+            "artist": "Paul McCartney",
+	    "albums": "36"
+        },
+        {
+            "sales": "150",
+            "active": "yes",
+            "period": "1980-2011 & 2015-present",
+            "artist": "Phil Collins",
+	    "albums": "12"
+        },
+        {
+            "sales": "250",
+            "active": "no",
+            "period": "1965-1996 & 2014",
+            "artist": "Pink Floyd",
+	    "albums": "27"
+        },
+        {
+            "sales": "100",
+            "active": "no",
+            "period": "1976-2016",
+            "artist": "Prince",
+	    "albums": "47"
+        },
+        {
+            "sales": "200",
+            "active": "yes",
+            "period": "1971-present",
+            "artist": "Queen",
+	    "albums": "43"
+        },
+        {
+            "sales": "85",
+            "active": "no",
+            "period": "1980-2011",
+            "artist": "REM",
+	    "albums": "34"
+        },
+        {
+            "sales": "80",
+            "active": "yes",
+            "period": "1975-present",
+            "artist": "Reba McEntire",
+	    "albums": "45"
+        },
+        {
+            "sales": "80",
+            "active": "yes",
+            "period": "1983-present",
+            "artist": "Red Hot Chili Peppers",
+	    "albums": "17"
+        },
+        {
+            "sales": "200",
+            "active": "yes",
+            "period": "2005-present",
+            "artist": "Rihanna",
+	    "albums": "10"
+        },
+        {
+            "sales": "75",
+            "active": "yes",
+            "period": "1990-present",
+            "artist": "Robbie Williams",
+	    "albums": "19"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1964-present",
+            "artist": "Rod Stewart",
+	    "albums": "56"
+        },
+        {
+            "sales": "90",
+            "active": "yes",
+            "period": "1966-present",
+            "artist": "Santana",
+	    "albums": "53"
+        },
+        {
+            "sales": "85",
+            "active": "yes",
+            "period": "1993-present",
+            "artist": "Shania Twain",
+	    "albums": "6"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1961-present",
+            "artist": "Stevie Wonder",
+	    "albums": "39"
+        },
+        {
+            "sales": "170",
+            "active": "yes",
+            "period": "2006-present",
+            "artist": "Taylor Swift",
+	    "albums": "7"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1961-present",
+            "artist": "The Beach Boys",
+	    "albums": "88"
+        },
+        {
+            "sales": "600",
+            "active": "no",
+            "period": "1960-1970",
+            "artist": "The Beatles",
+	    "albums": "88"
+        },
+        {
+            "sales": "76",
+            "active": "yes",
+            "period": "1995-present",
+            "artist": "The Black Eyed Peas",
+	    "albums": "8"
+        },
+        {
+            "sales": "100",
+            "active": "no",
+            "period": "1969-1983",
+            "artist": "The Carpenters",
+	    "albums": "29"
+        },
+        {
+            "sales": "80",
+            "active": "no",
+            "period": "1965-1973",
+            "artist": "The Doors",
+	    "albums": "33"
+        },
+        {
+            "sales": "75",
+            "active": "no",
+            "period": "1977-1986 & 2007-2008",
+            "artist": "The Police",
+	    "albums": "14"
+        },
+        {
+            "sales": "200",
+            "active": "yes",
+            "period": "1962-present",
+            "artist": "The Rolling Stones",
+	    "albums": "78"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1964-present",
+            "artist": "The Who",
+	    "albums": "49"
+        },
+        {
+            "sales": "100",
+            "active": "yes",
+            "period": "1955-present",
+            "artist": "Tina Turner",
+	    "albums": "17"
+        },
+        {
+            "sales": "80",
+            "active": "yes",
+            "period": "1976-present",
+            "artist": "Tom Petty",
+	    "albums": "13"
+        },
+        {
+            "sales": "150",
+            "active": "yes",
+            "period": "1976-present",
+            "artist": "U2",
+	    "albums": "17"
+        },
+        {
+            "sales": "75",
+            "active": "yes",
+            "period": "1991-present",
+            "artist": "Usher",
+	    "albums": "25"
+        },
+        {
+            "sales": "80",
+            "active": "yes",
+            "period": "1978-present",
+            "artist": "Van Halen",
+	    "albums": "16"
+        },
+        {
+            "sales": "200",
+            "active": "no",
+            "period": "1977-2012",
+            "artist": "Whitney Houston",
+	    "albums": "14"
+        }
+]
