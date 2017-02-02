@@ -1,3 +1,4 @@
+/*Jan Maarten de Vries Student number: 11408731*/
 function search()
 {
   // getting the user input from the textbox
@@ -48,4 +49,3 @@ function search()
     }
   });
 }
-
