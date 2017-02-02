@@ -77,3 +77,7 @@ I tried to change code for a better score in better code hub. My code is better 
 
 I made the REPORT.md and STANDUPS.md. I added the javascript to different files and pushed them on github. I added some more text to the visualisation.
 
+# day 19
+
+The report is finished and i centered the html text for the visualisation.
+
