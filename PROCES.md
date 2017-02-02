@@ -7,7 +7,7 @@ The timeline shows the bandmembers at and when you where or are bandmembers. The
 
 # day 2
 
-I started making some datasets for the timeline. No changes.
+I started making some datasets for the timeline. No changes to the visualisation.
 
 # day 3
 
@@ -31,7 +31,7 @@ Today i made the barchart and started with the timeline. The timeline does have 
 
 # day 7
 
-I added a hover function with labels to the timeline. I also made code that searches for the lowest and highest year and determines the part of the timeline that should be visable and started with the piechart. 
+The timeline visualisation works but only for the Beatles. I added a hover function with labels to the timeline. I also made code that searches for the lowest and highest year and determines the part of the timeline that should be visable and started with the piechart. 
 
 # day 8
 
@@ -71,7 +71,7 @@ I cleanded up my code. The parts that where not needed i deleted. I also learned
 
 # day 17
 
-I tried to change code for a better score in better code hub. My code is better now but still scores 5 out of 10. I changed my README.md and fixed the problems i had with github.
+I tried to change code for a better score in better code hub. My code is better now but still scores 5 out of 10. I tried to change the number of variables and the number of branchpoints. But i don't think i can reduce them more. I changed my README.md and fixed the problems i had with github.
 
 # day 18
 
