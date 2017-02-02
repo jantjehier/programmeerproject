@@ -57,8 +57,9 @@ De zoekfunctie gaat via een apparte functie. Deze zoekt uit of de band die je zo
 
 # Uitdagingen
 
-Een van de uitdagingen was het verzinnen van een goed idee voor de pie chart. Nu is in de pie chart te zien hoeveel procent een album is van de totale album verkopen. 
-Uiteindelijk heb ik voor een sort functie gekozen. 
+Een van de uitdagingen was het verzinnen van een goed idee voor de pie chart. Nu is in de pie chart te zien hoeveel procent een album is van de totale album verkopen. In het oorspronkelijke plan wou ik graag laten zien hoeveel leden er over zijn van de band waarmee het begon.
+In het oorspronkelijke plan begon het met een staafdiagram. Daarna heb ik deze aangepast naar een bubblediagram omdat ik graag een nieuwe visualisatie wou gaan maken. Toen ik daar meer data voor nodig bleek te hebben heb ik het ontwerp weer terug aangepast naar een staafdiagram.
+Uiteindelijk heb ik voor een sort functie gekozen in plaats van een dropdown menu met actieve en niet actieve bands.
 De timeline visualisatie was een uitdaging omdat deze niet volledig op internet te vinden was. Een bestaande visualisatie moest worden aangepast en de data moest in een ander format worden gezet. Ook moest er een x as worden toegevoegd voor de duidelijkheid. Bij dataprocessing heb ik alleen maar bestaande visualisaties gekozen. 
 De extra features waren ook een uitdaging. Bij dataprocessing heb ik alleen gewerkt met dropdown menu's, Nu moesten er meer functies worden toegevoegd waarvan ik geen idee had hoe ik die moest maken. 
 De data die ik wou gebruiken voor de visualisaties is niet volledig te vinden op internet. De timelines op wikipedia maken het aanpassen wat makkelijker maar die zijn er lang niet voor elke band. Omdat wikipedia wordt geschreven door veel verschillende mensen staat de informatie over bandleden steeds ook weer in een ander format. Scrapen was niet mogelijk dus moest de informatie zelf gemaakt worden. Dit kost veel tijd.
@@ -66,9 +67,11 @@ Github was ook een uitdaging voor mij. Voor dit project heb ik aleen maar code g
 
 # Keuzes
 
-Een pie chart met daarin het percentage van de orginele leden was dat lastig te begrijpen. Daarom heb ik de pie chart in week 3 aangepast. Hierdoor geeft de pie chart nuttige informatie weer die goed te begrijpen is.
+Een pie chart met daarin het percentage van de orginele leden was dat lastig te begrijpen. Daarom heb ik de pie chart in week 3 aangepast. Hierdoor geeft de pie chart nuttige informatie weer die goed te begrijpen is. 
+Het was een goed idee om een nieuw soort visualisatie toe te voegen maar de visualisatie paste niet bij mijn data. Om een bubblediagram af te maken moet er informatie staan op de assen. Als ik hier bijvoorbeeld het aantal albums had neergezet dan had dat de visualisatie alleen maar onduidelijker gemaakt. Daarnaast moest ik daar ook nog weer nieuwe data voor zoeken. Daarom heb ik besloten de visualisatie toch een staafdiagram te houden.
 Het dropdown menu uit het oorspronkelijke ontwerp voegde weinig toe omdat je een deel van dezelfde data inlaad die al goed te onderscheiden is door kleuren. Toen de bar chart alleen op alfabet gesorteerd was, was moeilijk te zien welke artiesten bijvoorbeeld evenveel albums hebben verkocht. Nu is dat beter zichtbaar.
-Als ik meer tijd had dan had ik mijn code meer verbeterd zodat ik een volgende keer makkelijker mijn visualisatie zou kunnen hergebruiken. Ook zou ik een langere geschiedenis van git commits bijhouden. Ook zou ik bij de timeline nog verticale lijnen toevoegen die albums weergeven en wie daar aan gewerkt hebben. Het liefst had ik meer visualisaties aan elkaar gelinkt maar omdat mijn plan daar weinig ruimte voor bood en ik niet genoeg tijd had heb ik dat laten zitten.  
+Als ik meer tijd had dan had ik mijn code meer verbeterd zodat ik een volgende keer makkelijker mijn visualisatie zou kunnen hergebruiken. Ook zou ik een langere geschiedenis van git commits bijhouden. Ook zou ik bij de timeline nog verticale lijnen toevoegen die albums weergeven en wie daar aan gewerkt hebben. Het liefst had ik meer visualisaties aan elkaar gelinkt maar omdat mijn plan daar weinig ruimte voor bood en ik niet genoeg tijd had heb ik dat laten zitten. 
+Ook zou ik de pagina wat mooier inrichten en me meer verdiepen in html en css.
 
 
 
