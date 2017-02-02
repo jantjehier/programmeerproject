@@ -1,3 +1,4 @@
+/*Jan Maarten de Vries Student number: 11408731*/
 function timeline(BandId, Totalalbums)
 {
   // removing the timeline container
@@ -174,4 +175,3 @@ function timeline(BandId, Totalalbums)
   window.scrollTo(0,document.body.scrollHeight);
   });
 }
-
