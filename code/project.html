@@ -6,9 +6,10 @@
     <meta charset="utf-8">
     <title>Programmeerproject</title>
     <link rel="stylesheet" type="text/css" href="programmeerproject.css"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <script type="text/javascript" src="http://gc.kis.scr.kaspersky-labs.com/1B74BD89-2A22-4B93-B451-1C9E1052A0EC/main.js" charset="UTF-8"></script>
 		<script type="text/javascript" src="http://mbostock.github.com/d3/d3.v2.js"></script>
-    <script type="text/javascript" src="javascript/project.js"></script>
     <script type="text/javascript" src="javascript/barchart.js"></script>
     <script type="text/javascript" src="javascript/timeline.js"></script>
     <script type="text/javascript" src="javascript/search.js"></script>
@@ -18,11 +19,16 @@
   </head>
 
   <body>
-    <h2>Best album selling artists<h2>
+    <h1 id="title">Best album selling music artists<h1>
+    <p id="explanation"> On this website you can learn more about the best album selling music artists.The bar chart shows the number of albums sold by a music artist or band.
+      The colors show if a band is still active or not. When you click on the bar chart you will see a timeline and a pie chart.
+      The timeline shows which members have been in the band at a certain time and when the band started.
+      The pie chart shows for the albums that where sold more than 20 million times, the percentage of the total albumsales. You can also search for a band with the search function.
+      This will also change the pie chart and timeline.<p>
+    <h2 id="title">Total sold albums <bb>(Click on a bar or search for a band for more information)<bb><h2>
     <label><input type="checkbox"> Sort barchart on values</label>
-    <input type="text" id="userInput"=></input>
+    <input type="text" id="userInput"></input>
     <input id="clickMe" type="button" value="search" onclick="search();" />
-    <p>Total sold albums of the 100 best album selling artists <bb>(Click on a bar or search for a band for more information)<bb><p>
     <ul class="legend">
       <li><span class="active"></span> Active</li>
       <li><span class="notactive"></span> Not active</li>
@@ -37,6 +43,7 @@
         <li><span class="guitar"></span> guitar</li>
         <li><span class="drums"></span> drums</li>
         <li><span class="key"></span> keyboard</li>
+        <li><span class="bass"></span> bass</li>
         <li><span class="percussion"></span> percussion</li>
         <li><span class="horns"></span> horns</li>
         <li><span class="harmonica"></span> harmonica</li>
@@ -48,6 +55,7 @@
         <li><span class="piano"></span> piano</li>
         <li><span class="wash"></span> washboard</li>
         <li><span class="tea"></span> tea-chest bass</li>
+        <script type="text/javascript" src="javascript/project.js"></script>
       </ul>
     </div>
   </body>
