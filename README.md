@@ -11,19 +11,19 @@
 #### Bar chart: 
 I have chosen to make a bar chart.
 In this bar chart the size of the bars show how much albums are sold. A scale from 75 million to 600 million.
-The red and green colors show if a band is still active. If the color is green the band is still active. 
-If the color is gray the band isn't active anymore. There is a checkbox that will sort the bars from the barchart.
+The red and gray colors show if a band is still active. If the color is green the band is still active. 
+If the color is gray the band isn't active anymore. There is a checkbox that sorts the bars from the barchart.
 When you hover over the bars the values will show.
 
 #### Timeline:
-There will also be a timeline that is linked to the barchart. when you click on a bar the band shows in the timeline.
-In the timeline you can see when a band was active and which musicians played in the band at which moment. The search funtion will work for the timeline. When you hover over a line you can see which instrument was played. On the top there is also a legend that shows the instruments.
+There is also a timeline that is linked to the barchart. When you click on a bar the band shows in the timeline.
+In the timeline you can see when a band was active and which musicians played in the band at which moment. The search funtion works for the timeline. When you hover over a line you can see which instrument was played. On the top there is also a legend that shows the instruments.
 
 #### Piechart:
 In the piechart you can see if a band had a lot of very succelfull albums or just sold a lot of different albums. For all the albums that where sold more than 20 million times you can see how much percent it was of the total albums sales. The other part of the pie chart shows on hover how much albums and how much sales. The albums are the studio albums, live albums and compilation albums because that albums are also counted in the list with most sold albums.
 
 ### Story
-The visualisation will show how it is possible that some bands are performing for a long time. Do they change members? Do they take breaks? Or are the performers healty enough to perform when they are 80? It also shows why bands sold the most albums. Can you be succesfull when you change your bandmembers a lot? Are older bands more succelfull? Are bands that are active for a long time more populair?
+When you look at the wikipedia list with bands that sold the most albums you want to know more. You want to know who was in that band and why is that band so populair? You can find some of the answers to your questions in the visualisations. Are bands more populair when they are stopped? Or are artists more populair after their death? From what time are the bands or artists? Did they sell just one good album or a lot of less succesfull albums? Are bands with a lot of members more populair? What instrument was played by who and when? You can find this all in the visualisations. 
 
 ### The data
 For this visualisation I needed datasets with the years where in a band is active. I also need data or timelines that show wich member was a bandmember at a certain time. 
