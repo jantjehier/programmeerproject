@@ -1,3 +1,4 @@
+/*Jan Maarten de Vries Student number: 11408731*/
 function barchart()
 {
   // setting margins, width and height barchart
@@ -74,7 +75,7 @@ function barchart()
         .attr("text-anchor", "end")
         .attr("x", width)
         .attr("y", height +160)
-        .text("Artist (sorted alphabetically)")
+        .text("Musician (sorted alphabetically)")
         .style("font", "20px times");
 
     svg.append("g")
@@ -153,4 +154,3 @@ function barchart()
      }
   });
 }
-
