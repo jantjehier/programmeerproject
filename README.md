@@ -44,7 +44,7 @@ https://github.com/jantjehier/Dataprocessing/blob/master/homework/D3LinkedViews/
 https://jsfiddle.net/ragingsquirrel3/qkHK6/
 #### Bar chart
 https://github.com/jantjehier/Dataprocessing/blob/master/homework/d3/barchart.js,
-https://bl.ocks.org/mbostock/3885304
+https://bl.ocks.org/mbostock/3885304 (copyrighted Released under the GNU General Public License, version 3.)
 
 ### Data
 https://en.wikipedia.org/wiki/List_of_best-selling_albums
