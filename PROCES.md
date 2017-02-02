@@ -79,5 +79,5 @@ I made the REPORT.md and STANDUPS.md. I added the javascript to different files 
 
 # day 19
 
-The report is finished and i centered the html text for the visualisation.
+The report is finished and i centered the html text for the visualisation. The Readme is changed for the last information and the project is added to github.
 
