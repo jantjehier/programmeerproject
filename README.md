@@ -1,6 +1,7 @@
 # programmeerproject
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/jantjehier/programmeerproject)](https://bettercodehub.com)
+(For the full project. Separate javascript files can score 6 or 7.)
 
 ![GitHub excample](/doc/printscreen.PNG)
 ![GitHub excample](/doc/printscreen2.PNG)
@@ -44,6 +45,11 @@ https://jsfiddle.net/ragingsquirrel3/qkHK6/
 #### bar chart
 https://github.com/jantjehier/Dataprocessing/blob/master/homework/d3/barchart.js,
 https://bl.ocks.org/mbostock/3885304
+
+### Data
+https://en.wikipedia.org/wiki/List_of_best-selling_albums
+https://en.wikipedia.org/wiki/List_of_best-selling_music_artists
+and seperate artist pages and discographies.
 
 ### technical problems
 The technical problems that could arise during the development are the linking of the visualisation, the new timeline visualisation and the way I organize the data. The linking of the visualisation didn't go well in the dataprocessing psets. Some times one of the visualisations didn't work. I also never made a timeline visualisation and there aren't as much timeline visualisations made as line graphs or barcharts. It will be harder to find the right information I need. In the dataprocessing assignments I had to change the data format a lot because it didn't work with the simple JSON files. All the data i get from the wikipedia pages are slightly different so i have to make changes to them and make the format the same. The best thing I can do to solve this problem is to do a lot of research and work structured. 
