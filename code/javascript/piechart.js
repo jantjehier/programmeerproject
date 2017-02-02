@@ -1,3 +1,4 @@
+/*Jan Maarten de Vries Student number: 11408731*/
 function piechart(BandId, Totalsold, Totalalbums)
 {
   // adding the pie chart title
@@ -109,4 +110,3 @@ function piechart(BandId, Totalsold, Totalalbums)
   return Math.round(d.value/Totalsold*100) + "%";}).style("font-size", "15px");
   });
 }
-
