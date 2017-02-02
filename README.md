@@ -37,11 +37,13 @@ Most of this information I can get from wikipedia. On wikipedia a couple of band
 
 #### timeline
 http://bl.ocks.org/bunkat/2338034, 
-http://bl.ocks.org/rengel-de/5603464, 
-https://bl.ocks.org/mbostock/4063269, 
-http://bl.ocks.org/bunkat/2338034,
+http://bl.ocks.org/rengel-de/5603464
+#### pie chart
 https://github.com/jantjehier/Dataprocessing/blob/master/homework/D3LinkedViews/D3LinkedViews.js,
-https://github.com/jantjehier/Dataprocessing/blob/master/homework/d3/barchart.js
+https://jsfiddle.net/ragingsquirrel3/qkHK6/
+#### bar chart
+https://github.com/jantjehier/Dataprocessing/blob/master/homework/d3/barchart.js,
+https://bl.ocks.org/mbostock/3885304
 
 ### technical problems
 The technical problems that could arise during the development are the linking of the visualisation, the new timeline visualisation and the way I organize the data. The linking of the visualisation didn't go well in the dataprocessing psets. Some times one of the visualisations didn't work. I also never made a timeline visualisation and there aren't as much timeline visualisations made as line graphs or barcharts. It will be harder to find the right information I need. In the dataprocessing assignments I had to change the data format a lot because it didn't work with the simple JSON files. All the data i get from the wikipedia pages are slightly different so i have to make changes to them and make the format the same. The best thing I can do to solve this problem is to do a lot of research and work structured. 
